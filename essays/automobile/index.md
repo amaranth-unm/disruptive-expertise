@@ -1,8 +1,8 @@
 ---
 title: "An Automobile Revolution and The Great Manure Crisis"
 layout: scrollstory
-header-image: images/jimmy-wales-imac.jpg
-thumbnail: images/jimmy-wales-imac.jpg
+header-image: images/ford-1921.jpg
+thumbnail: images/ford-1921.jpg
 summary: When the automobile emerged at the turn of the twentieth century, it did more than replace the horse—it exposed the limits of urban systems built on animal power and quietly resolved a crisis of waste, disease, and infrastructure that cities seemed unable to solve.
 header-title: Wikipedia and the Wisdom of the Crowd
 header-subtitle: How a Free Encyclopedia Disrupted Expertise
