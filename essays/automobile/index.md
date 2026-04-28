@@ -4,18 +4,18 @@ layout: scrollstory
 header-image: images/ford-1921.jpg
 thumbnail: images/ford-1921.jpg
 summary: When the automobile emerged at the turn of the twentieth century, it did more than replace the horse—it exposed the limits of urban systems built on animal power and quietly resolved a crisis of waste, disease, and infrastructure that cities seemed unable to solve.
-header-title: Wikipedia and the Wisdom of the Crowd
-header-subtitle: How a Free Encyclopedia Disrupted Expertise
+header-title: The Great Kinetic Reversal - When the Experts Lost the Reins
+header-subtitle: How the car fixed the American city.
 header-position: center
 ---
 
-# Wikipedia and the Wisdom of the Crowd
+# The Great Kinetic Reversal: When the Experts Lost the Reins
 
-On January 15, 2001, a website went live that contained almost nothing—a handful of stub articles, a blank editing interface, and a deceptively simple premise: anyone could write it. No credentials required. No editorial gatekeeping. No payment. Just a web browser and an opinion.
+In 1898, delegates from across the globe gathered in New York City for the world's first international urban planning conference. The atmosphere was one of impending apocalypse, but the threat wasn't war or economic collapse—it was horse manure. At the time, urban civilization was utterly dependent on a biological infrastructure that had remained fundamentally unchanged since the Roman Empire. In New York alone, 150,000 horses produced roughly 2.5 million pounds of manure every single day. Experts predicted that by 1930, manure would reach the third-story windows of Manhattan.
 
-Within three years, Wikipedia had more articles than the *Encyclopaedia Britannica*. Within a decade, it had become the largest reference work in human history. By almost any measure, it was an astonishing success—and one of the most unsettling intellectual disruptions of the twenty-first century. Not because it failed, but because it worked.
+The conference, scheduled for ten days, collapsed after only three. The world's leading authorities on urban life had reached a unanimous consensus: there was no solution. The expert model, reliant on managing a decentralized craft system of animal labor, simply did not scale to the demands of the industrializing city.
 
-The story of Wikipedia is not really a story about technology. It is a story about who gets to be an expert, who decides what counts as reliable knowledge, and what happens when those gatekeeping functions are suddenly thrown open to everyone.
+What the experts failed to see was that the solution wouldn't come from better manure management or more efficient horse breeding. It would come from a wholesale reconfiguration of human expertise. Within twenty years, the "living machine" of the nineteenth century would be systematically dismantled and replaced by the internal combustion engine. This was the "Great Kinetic Reversal," a socio-technical disruption that didn't just change how we moved—it changed who got to be an expert and what kind of knowledge mattered.
 
 
 ## The World Wikipedia Disrupted
