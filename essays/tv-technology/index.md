@@ -1,7 +1,7 @@
 ---
 title: The Rise of Television Technology
 layout: scrollstory
-header-image: images/old-tv-1930.jpg
+header-image: images/old-tv-1930.jpg 
 thumbnail: images/old-tv-1930.jpg
 summary: A look at how television transformed communication, culture, and public trust in information.
 header-title: The Birth of Television
@@ -30,6 +30,14 @@ influence children’s development
 challenge newspapers and radio
 
 The idea that millions of people could watch the same event simultaneously was unprecedented. As media historian Lynn Spigel notes, television “reorganized the rhythms of domestic life and the structure of public communication” (Spigel, Make Room for TV, 1992).
+
+{% include images/figure-wrap.html
+  image-path="images/"
+  image-position="right"
+  image-width="46%"
+  caption="The Encyclopaedia Britannica's multi-volume sets were symbols of authoritative knowledge—and the standard against which Wikipedia would soon be measured."
+  text=britannica_text
+%}
 
 # Contemporary Reactions
 Reactions to early television were deeply divided.
