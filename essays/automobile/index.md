@@ -21,16 +21,15 @@ What the experts failed to see was that the solution wouldn't come from better m
 ## The Biological Anchor: The Vanishing Art of Sensory Mastery
 
 {% capture britannica_text %}
-To understand why Wikipedia was so threatening, you have to understand what it replaced.
+To understand the magnitude of this shift, one must understand the type of expertise it replaced. The nineteenth-century city was a "horse city," an environment where movement was rooted in a mastery of biological and elemental forces. Expertise was not standardized; it was personal, artisanal, and deeply sensory.
 
-The *Encyclopaedia Britannica* was founded in Edinburgh in 1768 with an explicit promise: its articles would be written by recognized authorities in each field. That model—credentialed experts producing vetted, stable knowledge—defined reference works for two centuries. By the twentieth century, Britannica had become a cultural institution. Owning a set was a marker of middle-class aspiration; its contributors included Nobel laureates and heads of state.
+Consider the wheelwright, a primary figure in pre-automotive technical expertise. A wheelwright’s skill was a form of "material intelligence". They had to understand anisotropy—the directional nature of wood—and how specific species would "negotiate" with the weather. Construction was not a matter of following a blueprint; it was a biological dialogue between the artisan and the hygroscopic nature of the timber. Similarly, the blacksmith was a generalist troubleshooters whose expertise was tactile and improvisational. They fixed things through a "tinkerer’s hunch" and hand-forging, using skills honed over centuries.
 
-But it was also slow, expensive, and inevitably incomplete. A new edition took years to produce. Corrections were nearly impossible once printed. And the identity of "expert" it relied on—credentialed, Western, predominantly male—excluded enormous domains of knowledge.
 
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/books-britannica.jpeg"
+  image-path="images/wheelwrights-working.jpg"
   image-position="right"
   image-width="46%"
   caption="The Encyclopaedia Britannica's multi-volume sets were symbols of authoritative knowledge—and the standard against which Wikipedia would soon be measured."
