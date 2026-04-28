@@ -1,5 +1,5 @@
 ---
-title: "WThe Rise of Film Editing in the Digital Age"
+title: "The Rise of Film Editing in the Digital Age"
 layout: scrollstory
 header-image: images/jimmy-wales-imac.jpg
 thumbnail: images/jimmy-wales-imac.jpg
@@ -18,7 +18,6 @@ Film editing has been a skill rising more and more every day with the rise of fi
 
 A quote from the book No-Budget Feature Filmmaking in the Digital Era by Adam Nixon has this line: “Artistry is freed from maleficent habitus of capital in compelling ways, perhaps permanently." This stood out to me because having this technology accessible to everyone is able to have people make their own films, with their own writers and directors having people collaborate creatively and making films that aren't controlled by Hollywood or any other big business. By simplifying the "19th-century process" of manual film splicing, people believed that putting these tools in the hands of the people would break the monopoly that large studios held over storytelling. The film we create is controlled by the people, especially film on social media because it fosters communities and creators take in critiques and comments to improve their filmmaking.
 
-{% endcapture %}
 
 {% include images/figure-wrap.html
   image-path="images/books-britannica.jpeg"
