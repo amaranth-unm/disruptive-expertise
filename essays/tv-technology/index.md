@@ -35,7 +35,7 @@ The idea that millions of people could watch the same event simultaneously was u
   image-path="images/television-set-with-nes.jpg"
   image-position="right"
   image-width="46%"
-  caption="The Encyclopaedia Britannica's multi-volume sets were symbols of authoritative knowledge—and the standard against which Wikipedia would soon be measured."
+  caption="This photo shows a setup that was very popular among gamers of the era; it was also common to connect a VCR to your television to play VHS tapes."
   text=britannica_text
 %}
 
