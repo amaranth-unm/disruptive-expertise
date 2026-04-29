@@ -90,7 +90,7 @@ Television became a powerful tool for education, public information, and global 
   image-path="images/flat-screen-tv.jpg"
   image-position="right"
   image-width="46%"
-  caption="The Encyclopaedia Britannica's multi-volume sets were symbols of authoritative knowledge—and the standard against which Wikipedia would soon be measured."
+  caption="The flat screen TV changed expectations for how to watch TV."
   text=britannica_text
 %}
 
