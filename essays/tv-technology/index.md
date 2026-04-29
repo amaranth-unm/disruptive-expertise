@@ -106,7 +106,7 @@ Studying the introduction of television shows that societies often respond to ne
 Television did not destroy society; it changed it.
 AI is likely to follow a similar pattern: disruptive, transformative, and deeply debated.
 
-Understanding past technological ruptures helps us approach AI with more perspective and less panic.
+Understanding past technological ruptures helps us approach AI with more perspective and less panic. History shows that every major innovation—from the printing press to television—initially generated fear, resistance, and uncertainty. People often fear change not because the technology is dangerous, but because it challenges familiar routines and forces society to adapt. As Henry Ford famously remarked, “If I had asked people what they wanted, they would have said faster horses.” His point remains relevant today: the public often imagines the future through the lens of the past, while true innovation requires imagining what does not yet exist. Just as television transformed education, communication, and culture despite early skepticism, AI has the potential to reshape our world in ways we are only beginning to understand. By studying how previous technologies disrupted—and ultimately improved—daily life, we can approach AI not with fear, but with informed curiosity and the confidence that humanity has successfully navigated transformative change many times before.
 
 # REFERENCES (VERIFIED SOURCES)
 BBC Archives. Radio Times, January 1935 issue.
