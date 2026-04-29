@@ -84,7 +84,7 @@ It did not create a completely passive society.
 
 It did not replace all other media; instead, it coexisted with them.
 
-Television became a powerful tool for education, public information, and global awareness, especially during major events such as the moon landing in 1969, which was watched by an estimated 600 million people worldwide (NASA, 2019).
+Television became a powerful tool for education, public information, and global awareness, especially during major events such as the 1969 moon landing, which reached an estimated 600 million viewers worldwide (NASA, 2019). Over the following decades, technological innovation dramatically enhanced the viewing experience. The introduction of flat‑screen displays, followed by high‑definition (HD) formats, and later 4K and even 3D televisions, represented a major leap in image clarity, color accuracy, and overall immersion. These advancements transformed television from a simple broadcast device into a high‑resolution visual platform, continually improving the quality of the image and elevating the way audiences experience news, entertainment, and global events up to the present day.
 
 {% include images/figure-wrap.html
   image-path="images/flat-screen-tv.jpg"
