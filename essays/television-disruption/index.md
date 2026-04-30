@@ -10,7 +10,11 @@ header-position: center
 ---
 
 # Television and the Death of the Expert
-
+{% include images/figure-wrap.html image-path="images/kennedy-nixon-debate.jpg"
+  image-position="right"
+  image-width="46%"
+  caption="Kennedy and Nixon face off in the first televised presidential debate, 1960."
+%}
 On a September evening in 1960, seventy million Americans watched two men debate the future of the country. One looked pale, tired, and uncomfortable under the studio lights. The other looked calm, confident, and telegenic. People who listened on the radio thought the pale man won. People who watched on television thought the other man did. The technology didn't just broadcast the debate—it changed who won it.
 
 That moment revealed something that critics and cultural commentators had been nervously circling for a decade: television was not simply a new way to deliver information. It was a new way to produce authority.
@@ -26,7 +30,11 @@ Television collapsed that system—not by destroying it, but by bypassing it. Wh
 This was a genuinely radical shift. For centuries, expertise had been certified through slow, institutional processes: apprenticeship, licensing, peer review, publication. Television created a new kind of authority—one based on presence, performance, and the feeling of trustworthiness rather than its verification.
 
 ## The Moment of Rupture
-
+{% include images/figure-wrap.html image-path="images/early-television-set.jpeg"
+  image-position="left"
+  image-width="40%"
+  caption="A typical American television set from the early 1950s, when TV was rapidly becoming a household fixture."
+%}
 Television spread with startling speed. In 1948, fewer than one percent of American homes had a television set. By 1960, nearly ninety percent did. No technology in history had moved from novelty to near-universal adoption so quickly.
 
 From the beginning, observers understood that something more than entertainment was at stake. The medium didn't just carry content—it transformed it. A politician became a personality. A scientist became a talking head. A preacher became a performer. The same information, delivered on television rather than in print or in person, arrived differently—more visceral, more immediate, more emotionally compelling, and far harder to fact-check in real time.
