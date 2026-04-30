@@ -67,11 +67,13 @@ Understanding what television got right, what it got wrong, and why—not as a s
 
 ## How I Used AI for This Essay
 
-This essay was researched and written with the assistance of Claude, an AI assistant made by Anthropic.
+This essay was researched and written with the assistance of Claude, an AI assistant made by Anthropic, and NotebookLM, an AI research tool made by Google.
 
-AI was useful for generating an initial structure, identifying relevant historical examples, and drafting transitions between sections. It surfaced names, dates, and connections quickly and helped organize a large amount of material into a coherent argument.
+Claude was useful for generating an initial structure, identifying relevant historical examples, and drafting transitions between sections. It surfaced names, dates, and connections quickly and helped organize a large amount of material into a coherent argument.
 
-AI was not a reliable substitute for source verification. The Minow quote and its context were verified against historical records of the 1961 NAB speech. AI tends to present historical claims with more certainty than the evidence sometimes warrants, and it can flatten the genuine disagreements among historians into smooth, confident summaries. The most important decisions in this essay—what to include, what angle to take, what the evidence actually means—required judgment that the AI could prompt but not supply.
+NotebookLM was used to upload and analyze several of the sources in the bibliography, helping to identify key themes and relevant passages across multiple texts simultaneously. It was particularly useful for cross-referencing how different authors approached the question of television's effect on public trust and expertise.
+
+AI was not a reliable substitute for source verification. AI tends to present historical claims with more certainty than the evidence sometimes warrants, and it can flatten the genuine disagreements among historians into smooth, confident summaries. The most important decisions in this essay—what to include, what angle to take, what the evidence actually means—required judgment that the AI could prompt but not supply.
 
 The deeper limitation is one this essay is itself about: AI is very good at sounding authoritative. That is exactly the problem television posed, and it is the problem worth watching.
 
@@ -81,12 +83,40 @@ The deeper limitation is one this essay is itself about: AI is very good at soun
 
 Barnouw, Erik. *Tube of Plenty: The Evolution of American Television*. New York: Oxford University Press, 1975.
 
+Boorstin, Daniel J. *The Image: A Guide to Pseudo-Events in America*. New York: Vintage, 1961.
+
+Calabrese, Andrew, and Colin Sparks, eds. *Toward a Political Economy of Culture*. Lanham: Rowman & Littlefield, 2004.
+
+Davis, Richard. *The Press and American Politics: The New Mediator*. Upper Saddle River: Prentice Hall, 1996.
+
+Gitlin, Todd. *Media Unlimited: How the Torrent of Images and Sounds Overwhelms Our Lives*. New York: Metropolitan Books, 2001.
+
+Gitlin, Todd. *The Whole World Is Watching: Mass Media in the Making and Unmaking of the New Left*. Berkeley: University of California Press, 1980.
+
+Hallin, Daniel C. *The Uncensored War: The Media and Vietnam*. New York: Oxford University Press, 1986.
+
+Iyengar, Shanto, and Donald R. Kinder. *News That Matters: Television and American Opinion*. Chicago: University of Chicago Press, 1987.
+
+Jamieson, Kathleen Hall. *Packaging the Presidency: A History and Criticism of Presidential Campaign Advertising*. New York: Oxford University Press, 1984.
+
+Kellner, Douglas. *Television and the Crisis of Democracy*. Boulder: Westview Press, 1990.
+
+MacDonald, J. Fred. *One Nation Under Television: The Rise and Decline of Network TV*. New York: Pantheon, 1990.
+
+McLuhan, Marshall. *Understanding Media: The Extensions of Man*. New York: McGraw-Hill, 1964.
+
 Minow, Newton N. "Television and the Public Interest." Speech delivered to the National Association of Broadcasters, Washington, D.C., May 9, 1961.
+
+Morrow, Lance. "The Decline and Fall of TV News." *Time*, August 6, 1984.
+
+Newcomb, Horace, ed. *Television: The Critical View*. New York: Oxford University Press, 1976.
 
 Postman, Neil. *Amusing Ourselves to Death: Public Discourse in the Age of Show Business*. New York: Penguin, 1985.
 
 Postman, Neil. *Technopoly: The Surrender of Culture to Technology*. New York: Knopf, 1992.
 
 Sperber, A.M. *Murrow: His Life and Times*. New York: Freundlich Books, 1986.
+
+Spigel, Lynn. *Make Room for TV: Television and the Family Ideal in Postwar America*. Chicago: University of Chicago Press, 1992.
 
 Watson, Mary Ann. *The Expanding Vista: American Television in the Kennedy Years*. New York: Oxford University Press, 1990.
