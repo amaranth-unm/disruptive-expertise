@@ -1,8 +1,8 @@
 ---
 title: "Television and the Death of the Expert"
 layout: scrollstory
-header-image: images/television-disruption.jpg
-thumbnail: images/television-disruption.jpg
+header-image: images/vintage-televisions.jpg
+thumbnail: images/vintage-televisions.jpg
 summary: When television entered American homes in the 1950s, it didn't just change entertainment—it rewired who gets to speak with authority and who gets to listen.
 header-title: Television and the Death of the Expert
 header-subtitle: How a Screen in Every Home Disrupted Authority
