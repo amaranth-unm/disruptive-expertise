@@ -52,12 +52,6 @@ The crisis of the "mountain of manure" represented the limits of pre-industrial 
 The expert urban planners of 1898 saw the city as a human conquest over nature, making the presence of vast herds of animals seem paradoxically "uncivilized." Yet, they could not theorize a world without them. They were trapped in a model of expertise that could only imagine "faster and cleaner horses"
 
 
-{% include scrollybox/bg.html
-  image-path="images/new-york-city.jpg"
-  above-box-space="90vh"
-  below-box-space="80vh"
-  box-align="right"
-  box-content="
 ## The Great Kinetic Reversal: 1908–1925
 
 The decisive disruption arrived in 1908 with the Henry Ford Model T. Ford’s mission was to replace the "unreliable brute" of the horse with a machine that offered "perfect obedience" to its human operator.
@@ -73,8 +67,6 @@ Fixed Routes: Electric streetcars replaced horse-drawn trolleys.
 Light Passenger Transport: Automobiles replaced carriages and cabs.
 
 Heavy Freight: Motorized trucks finally supplanted the horse cart in the 1920s.
-"
-5}
 
 
 ## The Critics Respond
