@@ -74,7 +74,7 @@ Light Passenger Transport: Automobiles replaced carriages and cabs.
 
 Heavy Freight: Motorized trucks finally supplanted the horse cart in the 1920s.
 "
-%}
+5}
 
 
 ## The Critics Respond
