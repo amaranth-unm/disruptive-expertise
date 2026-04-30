@@ -43,29 +43,36 @@ This world relied on locally specific knowledge and sensory intuition. A driver�
 
 {% include typography/pullquote.html text="\"In 50 years, every street in London will be buried under nine feet of manure.\" — The Times of London, 1894" %}
 
-## Anyone Can Edit
+## The Failure of the Expert Model
 
-Ward Cunningham had invented the "wiki" in 1995—a website that any visitor could edit directly, with changes appearing instantly. The concept was designed for software developers sharing documentation. When Larry Sanger suggested in January 2001 that Nupedia try a wiki as a "feeder" system for rough drafts, Wales agreed. Within days the wiki had more activity than Nupedia had seen in months.
+By the late 1800s, this artisanal model was failing. The growth in the horse population was outstripping human city dwellers. The biological byproducts—urine, carcasses, disease-carrying flies, and the omnipresent stench—created a public health emergency that traditional planning was fundamentally unequipped to handle.
 
-The key insight was almost counterintuitive: the *lack* of a barrier to entry was a feature, not a bug. Removing the need for credentials meant removing the bottleneck. Wikipedia's growth was explosive precisely because it was unguarded. Anyone with knowledge—formal or informal, credentialed or accumulated through decades of lived experience—could contribute.
+The crisis of the "mountain of manure" represented the limits of pre-industrial infrastructure. The working horse was a "living machine" operated at maximum output and minimum cost, typically breaking down within three to five years. In the 1880s, New York City had to remove roughly 15,000 horse carcasses from its streets annually.
 
-This was not, at the time, considered a serious proposal for producing reliable knowledge. The experts said so, loudly.
+The expert urban planners of 1898 saw the city as a human conquest over nature, making the presence of vast herds of animals seem paradoxically "uncivilized." Yet, they could not theorize a world without them. They were trapped in a model of expertise that could only imagine "faster and cleaner horses"
+
 
 {% include scrollybox/bg.html
-  image-path="images/market-view.jpg"
+  image-path="images/new-york-city.jpg"
   above-box-space="90vh"
   below-box-space="80vh"
   box-align="right"
   box-content="
-## The Wiki Model: A Different Theory of Knowledge
+## The Great Kinetic Reversal: 1908–1925
 
-Traditional encyclopedias assumed that reliable knowledge flows *downward*: from credentialed experts to the reading public.
+The decisive disruption arrived in 1908 with the Henry Ford Model T. Ford’s mission was to replace the "unreliable brute" of the horse with a machine that offered "perfect obedience" to its human operator.
 
-Wikipedia inverted this. It assumed knowledge could flow *upward* and *sideways*—from anyone who knew something to everyone who needed it. Errors would be caught not by editors in advance, but by readers and other contributors over time.
+The speed of the transition was staggering. In 1910, the U.S. horse population peaked at 26 million. By 1930, there were 23 million automobiles. In Manhattan, the horse population dropped from 128,000 to 56,000 in a single decade. By 1912, automobiles outnumbered horses on New York’s streets.
 
-This is sometimes called the 'bazaar' model, as opposed to the 'cathedral' model of traditional scholarly publishing. The cathedral is designed by architects and built according to a plan. The bazaar is chaotic, self-organizing, and—against all expectations—often works.
+This wasn't just a swap of vehicles; it was a functional displacement in a predictable sequence:
 
-The philosopher Yochai Benkler called this 'commons-based peer production,' arguing in a landmark 2002 *Yale Law Journal* article that it represented a genuinely new mode of knowledge production—neither market-based nor state-organized, but collaborative and distributed.
+1. Stationary Power: Engines replaced horses on treadmills.
+
+2. Fixed Routes: Electric streetcars replaced horse-drawn trolleys.
+
+3. Light Passenger Transport: Automobiles replaced carriages and cabs.
+
+4. Heavy Freight: Motorized trucks finally supplanted the horse cart in the 1920s.
 "
 %}
 
