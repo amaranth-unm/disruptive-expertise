@@ -1,7 +1,7 @@
 ---
 title: "Refrigerator Rundown"
 layout: scrollstory
-header-image: images/jimmy-wales-imac.jpg
+header-image: images/fridge-rundown.png
 thumbnail: images/jimmy-wales-imac.jpg
 summary: When Wikipedia launched in 2001, it didn't just build a new encyclopedia—it challenged the centuries-old assumption that reliable knowledge requires certified experts to produce it.
 header-title: Refrigerator Rundown
