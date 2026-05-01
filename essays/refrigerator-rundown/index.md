@@ -2,10 +2,10 @@
 title: "Refrigerator Rundown"
 layout: scrollstory
 header-image: images/fridge-rundown.png
-thumbnail: images/fridge-rundown.jpg
+thumbnail: images/fridge-rundown.png
 summary: When Wikipedia launched in 2001, it didn't just build a new encyclopedia—it challenged the centuries-old assumption that reliable knowledge requires certified experts to produce it.
 header-title: Refrigerator Rundown
-header-subtitle: How a the Fridge Changed the World
+header-subtitle: How the Fridge Changed the World
 header-position: center
 ---
 
