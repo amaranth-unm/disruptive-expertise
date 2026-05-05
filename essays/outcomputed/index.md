@@ -1,5 +1,5 @@
 ---
-title: "Wikipedia and the Wisdom of the Crowd"
+title: "Outcomputed: the Synthetic Genious"
 layout: scrollstory
 header-image: images/jimmy-wales-imac.jpg
 thumbnail: images/jimmy-wales-imac.jpg
