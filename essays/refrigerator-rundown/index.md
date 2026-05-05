@@ -23,6 +23,10 @@ All in all, the refrigerator changed the world even if it was considered scary w
 ## No More Ice Box
 
 {% capture britannica_text %}
+  image-path="images/icebox.png"
+  image-position="right"
+  image-width="46%"
+
 Before refrigerators were invented, people had to figure out how to keep their food cold and safe. Ice boxes were the route to go, where people could store small amounts of food that would be kept cold until it was used. Meat would be walked, still living, to cities where butchers would have a certain amount of time to sell it before going bad. Ice houses were built in order to keep up with the mass amount of ice needed in the hot summers of Maryland, Pennsylvania, and Virgina. 
 
 The *Encyclopaedia Britannica* was founded in Edinburgh in 1768 with an explicit promise: its articles would be written by recognized authorities in each field. That model—credentialed experts producing vetted, stable knowledge—defined reference works for two centuries. By the twentieth century, Britannica had become a cultural institution. Owning a set was a marker of middle-class aspiration; its contributors included Nobel laureates and heads of state.
