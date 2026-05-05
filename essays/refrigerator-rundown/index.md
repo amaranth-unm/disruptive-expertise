@@ -24,7 +24,7 @@ All in all, the refrigerator changed the world even if it was considered scary w
 
 {% include images/figure-wrap.html
   image-path="images/icebox.png"
-  image-position="right"
+  image-position="center"
   image-width="46%"
   caption="The Ice Box was designed to keep food cool with ice being insulated in metal containers."
 %}
