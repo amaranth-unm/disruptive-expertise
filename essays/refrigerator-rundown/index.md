@@ -27,7 +27,6 @@ All in all, the refrigerator changed the world even if it was considered scary w
   image-position="right"
   image-width="46%"
   caption="The Ice Box was designed to keep food cool with ice being insulated in metal containers."
-  text=britannica_text
 %}
 
 Before refrigerators were invented, people had to figure out how to keep their food cold and safe. Ice boxes were the route to go, where people could store small amounts of food that would be kept cold until it was used. Meat would be walked, still living, to cities where butchers would have a certain amount of time to sell it before going bad. Ice houses were built in order to keep up with the mass amount of ice needed in the hot summers of Maryland, Pennsylvania, and Virgina. 
