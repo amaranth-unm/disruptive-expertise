@@ -1,9 +1,9 @@
 ---
-title: "Wikipedia and the Wisdom of the Crowd"
+title: "Outcomputed: the Synthetic Genious"
 layout: scrollstory
 header-image: images/jimmy-wales-imac.jpg
 thumbnail: images/jimmy-wales-imac.jpg
-summary: When Wikipedia launched in 2001, it didn't just build a new encyclopedia—it challenged the centuries-old assumption that reliable knowledge requires certified experts to produce it.
+summary: The rise of the early calculator did far more than automate sums, it effectively liquidated the "human computer" as a professional class. By migrating the labor of the mind into a plastic box, the device stripped the mathematical virtuoso of their societal gatekeeping power, permanently devaluing the mental stamina once required to command the world’s data.
 header-title: Wikipedia and the Wisdom of the Crowd
 header-subtitle: How a Free Encyclopedia Disrupted Expertise
 header-position: center
