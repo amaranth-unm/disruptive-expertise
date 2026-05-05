@@ -23,7 +23,7 @@ All in all, the refrigerator changed the world even if it was considered scary w
 ## No More Ice Box
 
 {% capture britannica_text %}
-To understand why Wikipedia was so threatening, you have to understand what it replaced.
+Before refrigerators were invented, people had to figure out how to keep their food cold and safe. Ice boxes were the route to go, where people could store small amounts of food that would be kept cold until it was used. Meat would be walked, still living, to cities where butchers would have a certain amount of time to sell it before going bad. Ice houses were built in order to keep up with the mass amount of ice needed in the hot summers of Maryland, Pennsylvania, and Virgina. 
 
 The *Encyclopaedia Britannica* was founded in Edinburgh in 1768 with an explicit promise: its articles would be written by recognized authorities in each field. That model—credentialed experts producing vetted, stable knowledge—defined reference works for two centuries. By the twentieth century, Britannica had become a cultural institution. Owning a set was a marker of middle-class aspiration; its contributors included Nobel laureates and heads of state.
 
@@ -121,9 +121,9 @@ AI presents the same asymmetry at greater scale and higher speed. Understanding 
 
 ## How I Used AI for This Essay
 
-This essay was researched and written with the assistance of Claude, an AI assistant made by Anthropic.
+This essay got assistance from NotebookLM and ChatGPT as a way to help make it more rounded and give images that help with the topic.
 
-AI was useful for: generating an initial outline, suggesting relevant historical figures and events, and helping draft transitions between sections. I used it as a starting point—a well-read research assistant who could quickly surface names and dates and connections.
+ NotebookLM was immensely helpful with finding several different articles and sources that were important for the research of this essay. I was able to sift through multiple links and find applicable information from this tool, which made the research more bearable.
 
 AI was *not* a reliable source for specific claims, quotations, or bibliographic details. Every source cited here was verified through actual databases (JSTOR, Google Scholar, library catalogs) or the original texts. Several sources that an AI initially suggested turned out to have incorrect publication dates, wrong page numbers, or—in two cases—to not exist in the form described. AI is not a substitute for source verification; it is a starting point for research, not an endpoint.
 
@@ -133,30 +133,6 @@ The deeper limitation: AI flattened the historiographic debates. When I asked it
 
 ## Bibliography
 
-Baker, Nicholson. "The Charms of Wikipedia." *New York Review of Books*, March 20, 2008.
+Hautzinger, David. “How the Miracle of Refrigeration Changed Our Food System – and Chicago’s Role in Its Development .” WTTW Chicago. Accessed May 5, 2026. https://www.wttw.com/playlist/2024/07/11/frostbite-nicola-twilley.  
 
-Benkler, Yochai. "Coase's Penguin, or, Linux and 'The Nature of the Firm.'" *Yale Law Journal* 112, no. 3 (2002): 369–446.
 
-Giles, Jim. "Internet Encyclopaedias Go Head to Head." *Nature* 438, no. 7070 (December 2005): 900–901.
-
-Johns, Adrian. *The Nature of the Book: Print and Knowledge in the Making*. Chicago: University of Chicago Press, 1998.
-
-Keen, Andrew. *The Cult of the Amateur: How Today's Internet is Killing Our Culture*. New York: Doubleday, 2007.
-
-Lih, Andrew. *The Wikipedia Revolution: How a Bunch of Nobodies Created the World's Greatest Encyclopedia*. New York: Hyperion, 2009.
-
-McHenry, Robert. "The Faith-Based Encyclopedia." *TCS Daily*, November 15, 2004.
-
-Nichols, Tom. *The Death of Expertise: The Campaign Against Established Knowledge and Why It Matters*. New York: Oxford University Press, 2017.
-
-Postman, Neil. *Amusing Ourselves to Death: Public Discourse in the Age of Show Business*. New York: Penguin, 1985.
-
-Reagle, Joseph M. *Good Faith Collaboration: The Culture of Wikipedia*. Cambridge: MIT Press, 2010.
-
-Sanger, Larry. "The Early History of Nupedia and Wikipedia: A Memoir." *Slashdot*, April 2005.
-
-Shapin, Steven. *A Social History of Truth: Civility and Science in Seventeenth-Century England*. Chicago: University of Chicago Press, 1994.
-
-Shirky, Clay. *Here Comes Everybody: The Power of Organizing Without Organizations*. New York: Penguin Press, 2008.
-
-Wales, Jimmy. "Wikipedia Is an Encyclopedia." Wikipedia-l mailing list, March 8, 2005.
