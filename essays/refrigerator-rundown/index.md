@@ -26,7 +26,7 @@ All in all, the refrigerator changed the world even if it was considered scary w
   image-path="images/icebox.png"
   image-position="right"
   image-width="46%"
-  caption="The Encyclopaedia Britannica's multi-volume sets were symbols of authoritative knowledge—and the standard against which Wikipedia would soon be measured."
+  caption="The Ice Box was designed to keep food cool with ice being insulated in metal containers."
   text=britannica_text
 %}
 
