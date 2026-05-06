@@ -87,7 +87,7 @@ The release of Photoshop marked the beginning of a cultural shift in which image
 %}
 
 {% include scrollybox/bg.html
-  image-path="images/7aXEiBwoFMasUh9aXtEvu8-1200-80.jpg"
+  image-path="images/programming-code-abstract-technology-background-of-software-developer-and-computer-script-generative-ai-photo.jpg"
   above-box-space="80vh"
   below-box-space="80vh"
   box-align="left"
