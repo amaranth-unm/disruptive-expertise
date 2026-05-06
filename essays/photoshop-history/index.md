@@ -87,7 +87,7 @@ The release of Photoshop marked the beginning of a cultural shift in which image
 %}
 
 {% include scrollybox/bg.html
-  image-path="images/printing-press.jpg"
+  image-path="images/7aXEiBwoFMasUh9aXtEvu8-1200-80.jpg"
   above-box-space="80vh"
   below-box-space="80vh"
   box-align="left"
@@ -110,42 +110,53 @@ Neil Postman warned in *Amusing Ourselves to Death* (1985) that every new medium
 
 ## How I Used AI for This Essay
 
-This essay was researched and written with the assistance of Claude, an AI assistant made by Anthropic.
+This essay was researched and written with the assistance of OpenAI and NotebookLM.
 
-AI was useful for: generating an initial outline, suggesting relevant historical figures and events, and helping draft transitions between sections. I used it as a starting point—a well-read research assistant who could quickly surface names and dates and connections.
+AI was useful for: Gathering relevant sources through NotebookLM, and the ability to tie in and relate those sources to the material presented in class. 
 
-AI was *not* a reliable source for specific claims, quotations, or bibliographic details. Every source cited here was verified through actual databases (JSTOR, Google Scholar, library catalogs) or the original texts. Several sources that an AI initially suggested turned out to have incorrect publication dates, wrong page numbers, or—in two cases—to not exist in the form described. AI is not a substitute for source verification; it is a starting point for research, not an endpoint.
+Help structure the essay, bounce ideas off each other and be able to combine all researched materials into one centralized text with smooth transitions.
 
-The deeper limitation: AI flattened the historiographic debates. When I asked it to explain "the significance of Wikipedia," it gave a confident, balanced-sounding answer that missed exactly the tensions and contradictions that make the history interesting. Historians argue. They disagree. They revise. AI tends to synthesize and harmonize. The most important intellectual work in this essay—deciding what the evidence actually *means*—was mine to do.
+AI was *not* a reliable source for the details of the essay. I had to keep putting in new prompts such as "elaborate more on the expertise disruption due to Photoshop", or "focus less on giving me an entire history of photoshop and more on how it disrupted trust." Ai was also not as reliable when gathering a large group of source at once, some of the sources did not have as much relevance as I would've liked it to. 
 
+## How I overcame these challenges and navigated the assignment
+AI is something that, for the most part, you control how precise the output is. It was extremely helpful to give you a general idea and scaffold of the essay. However, you must revise the contents, whether manually or by inputing precise commands and prompts. Ai is the future, and we must learn how to both correctly and efficiently use it in our work.
 ---
 
 ## Bibliography
 
-Baker, Nicholson. "The Charms of Wikipedia." *New York Review of Books*, March 20, 2008.
+Adobe Communications Team. "Photoshop: Changing Your Photo, Changing an Industry." The Adobe Blog, 6 Dec. 2017.
 
-Benkler, Yochai. "Coase's Penguin, or, Linux and 'The Nature of the Firm.'" *Yale Law Journal* 112, no. 3 (2002): 369–446.
+Batley, Abigail, and Richard Glithro. "Exploring the Synergy of AI Generative Fill in Photoshop and the Creative Design Process Utilising Informal Learning." 26th International Conference on Engineering and Product Design Education, 5-6 Sept. 2024.
 
-Giles, Jim. "Internet Encyclopaedias Go Head to Head." *Nature* 438, no. 7070 (December 2005): 900–901.
+Berry, Ellie. "Chapter 2: The Politics | Representation and National Geographic." Ellie Berry, 14 May 2020.
 
-Johns, Adrian. *The Nature of the Book: Print and Knowledge in the Making*. Chicago: University of Chicago Press, 1998.
+Campbell, David. The InTegrITy of The Image: Current Practices and Accepted Standards Relating to the Manipulation of Still Images in Photojournalism and Documentary Photography. World Press Photo Academy, Nov. 2014.
 
-Keen, Andrew. *The Cult of the Amateur: How Today's Internet is Killing Our Culture*. New York: Doubleday, 2007.
+Clipping World. "History of Photoshop: Evolution, Origins & Version Timeline." Clipping World, 1 Feb. 2026.
 
-Lih, Andrew. *The Wikipedia Revolution: How a Bunch of Nobodies Created the World's Greatest Encyclopedia*. New York: Hyperion, 2009.
+Evans, Mathew D., et al. "Using Creativity and Imagination to Understand our Algorithmic World: a Conversation with Dr. Ed Finn." TechTrends, 31 May 2019, https://doi.org/10.1007/s11528-019-00404-3
+.
 
-McHenry, Robert. "The Faith-Based Encyclopedia." *TCS Daily*, November 15, 2004.
+Gawman, Paul. "From Photoshop to Generative AI: The Evolution of Image Manipulation." Paul Gawman, 2025.
 
-Nichols, Tom. *The Death of Expertise: The Campaign Against Established Knowledge and Why It Matters*. New York: Oxford University Press, 2017.
+Gupta, Vipin. "Deepfake and the Crisis of Trust in Digital Public Spheres." International Journal of Social Science Research, vol. 2, no. 2, Mar.-Apr. 2025, pp. 329-40.
 
-Postman, Neil. *Amusing Ourselves to Death: Public Discourse in the Age of Show Business*. New York: Penguin, 1985.
+Jiang, Harry H., et al. "How Professional Visual Artists are Negotiating Generative AI in the Workplace." Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems, 13-17 Apr. 2026, https://doi.org/10.1145/3772363.3799003
+.
 
-Reagle, Joseph M. *Good Faith Collaboration: The Culture of Wikipedia*. Cambridge: MIT Press, 2010.
+Karthikeyan, S., and Anindita Roy. "Digital Trust in the Age of Deepfakes and Synthetic Media." Journal of Cyber Risk and Digital Trust, vol. 1, no. 2, May-Aug. 2025, pp. 43-49.
 
-Sanger, Larry. "The Early History of Nupedia and Wikipedia: A Memoir." *Slashdot*, April 2005.
+Lind, Douglas M. "Photo Manipulation and its Effect on Future Credibility of Documentary Photojournalism." Master's thesis, Utah State University, May 1993.
 
-Shapin, Steven. *A Social History of Truth: Civility and Science in Seventeenth-Century England*. Chicago: University of Chicago Press, 1994.
+Parsons, Andy. "Authenticity in the Age of AI: Growing Content Credentials Momentum Across Social Media Platforms, AI Companies and Rising Consumer Awareness." The Adobe Blog, 18 Sept. 2024, https://blog.adobe.com
+.
 
-Shirky, Clay. *Here Comes Everybody: The Power of Organizing Without Organizations*. New York: Penguin Press, 2008.
+PRO EDU. "The Evolution of Photoshop: From Basic Editing to AI Integration - A Visual Revolution." PRO EDU Blog, 22 Nov. 2024.
 
-Wales, Jimmy. "Wikipedia Is an Encyclopedia." Wikipedia-l mailing list, March 8, 2005.
+Smith, Andrew, and James Hutson. "Satirical Deepfakes, Surreal Dreamscapes & Nostalgic Pixels: The Rapid Evolution and Cultural Commentary of AI-Aesthetics." ISAR Journal of Arts, Humanities and Social Sciences, vol. 2, no. 9, Sept. 2024, pp. 31-43.
+
+Swift, Ian P., and Debaleena Chattopadhyay. "A Value-Oriented Investigation of Photoshop's Generative Fill." arXiv, last revised 6 May 2024, https://doi.org/10.48550/arXiv.2404.17781
+.
+
+Zhou, ShengDong, et al. "The Impact of Artificial Intelligence on the Evolution of Graphic Design: Current Practices and Challenges." Premier Journal of Science, vol. 14, 31 Oct. 2025, https://doi.org/10.70389/PJS.100151
+.
