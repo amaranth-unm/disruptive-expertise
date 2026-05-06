@@ -38,7 +38,7 @@ A known example of this was back in 1994, when the Time Magazine digitally edite
 What happened in the aftermath of the release of Photoshop, was expected but not at the pace it was presumed to be. Photoshop definitely disrupted the expertise required in traditional forms of photographic editing, but it also presented new forms of expertise. As it became more available to the public, it became normalized to edit pictures and rearrange appearances, especially on platforms such as social media, fashion brands, and any advertising. With the expansion of its use, people also learned to not instantly give trust to what they see, everyone became more skeptical and careful about what they believed was a true representation. Terms like “photoshopped” or “PS’ed” slowly became popular when viewing pictures, to the point where it is normal to not believe things online, even sometimes when it is real. Photoshop reshaped society, it destroyed the instant authority that images gave and built a completely contrasting theme of how images cannot be trusted. 
 
 
-{% include typography/pullquote.html text="\"Imagine a world in which every single human being can freely share in the sum of all human knowledge. That's what we're doing.\" — Jimmy Wales, Wikipedia co-founder" %}
+{% include typography/pullquote.html text="\"Photography has always been assumed to be truthful, but Photoshop changes that assumption.\" — Fred Ritchin, photojournalist and filmmaker." %}
 
 ## Anyone Can Edit
 
