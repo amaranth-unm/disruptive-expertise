@@ -2,24 +2,34 @@
 title: "Photoshop"
 layout: scrollstory
 header-image: images/Surreal-Photo-Manipulation.jpg
-thumbnail: images/jimmy-wales-imac.jpg
+thumbnail: images/Surreal-Photo-Manipulation.jpg
 summary: When Wikipedia launched in 2001, it didn't just build a new encyclopedia—it challenged the centuries-old assumption that reliable knowledge requires certified experts to produce it.
 header-title: Wikipedia and the Wisdom of the Crowd
 header-subtitle: How a Free Encyclopedia Disrupted Expertise
 header-position: center
 ---
 
-# Wikipedia and the Wisdom of the Crowd
+# Photoshop and the Concerns it Brings
 
-To understand the pending danger of Photoshop, we must take a step back to a time whenever photographs were widely accepted as evidence, a reliable source of credibility. Before digital editing ever became a thing, to alter a photograph meant using advanced darkroom techniques, with professionals specializing in the work. The equipment was very expensive, so this limited the accessibility of being able to edit pictures. That is why photographs had the authority to be used as evidence. Anything with pictures was deemed trustworthy, such as science, journalism, and everything else. In 1987, Thomas and John Knoll created Photoshop, and in 1990 it was released by Adobe Inc. This shifted everything, a simple application allowed users to alter an image at pixel levels. It could be used to change appearances and rewrite imperfections, essentially telling a whole new story. What once took expert resources and time is now able to be done at hand on someone’s personal computer. This was the turning point, changing the narrative of whether images could be trustworthy and treated as evidence.
+To understand the pending danger of Photoshop, we must take a step back to a time whenever photographs were widely accepted as evidence, a reliable source of credibility. Before digital editing ever became a thing, to alter a photograph meant using advanced darkroom techniques, with professionals specializing in the work. The equipment was very expensive, so this limited the accessibility of being able to edit pictures. That is why photographs had the authority to be used as evidence. Anything with pictures was deemed trustworthy, such as science, journalism, and everything else. 
+
+In 1987, Thomas and John Knoll created Photoshop, and in 1990 it was released by Adobe Inc. This shifted everything, a simple application allowed users to alter an image at pixel levels. It could be used to change appearances and rewrite imperfections, essentially telling a whole new story. What once took expert resources and time is now able to be done at hand on someone’s personal computer. This was the turning point, changing the narrative of whether images could be trustworthy and treated as evidence.
 
 
 ## The World Wikipedia Disrupted
 
 {% capture britannica_text %}
-To understand why Wikipedia was so threatening, you have to understand what it replaced.
+The Aftermath
 
-Following its release, people began to have the feeling of excitement yet unease. Industries and companies all immediately began taking advantage of this new technology, due to the creative and artistic abilities like none other. Photoshop was now a groundbreaking invention, but like any other, it came with a downside. Concerns of digital editing challenging the credibility of images slowly started to become more prominent, especially among journalists and media scholars. A known example of this was back in 1994, when the Time Magazine digitally edited O.J. Simpson’s mugshot. They made his skin darker, this sparked public interest and invited critics to raise ethical questions such as what is the difference between documentation and distortion, and how photoshop makes it that much harder to answer. Even in the early years of Photoshop’s release, the duality of its ethical usage was recognized.
+Following its release, people began to have the feeling of excitement yet unease. Industries and companies all immediately began taking advantage of this new technology, due to the creative and artistic abilities like none other. Photoshop was now a groundbreaking invention, but like any other, it came with a downside. Concerns of digital editing challenging the credibility of images slowly started to become more prominent, especially among journalists and media scholars. 
+{% include images/figure-wrap.html
+  image-path="images/1994ojtime.jpg"
+  image-position="right"
+  image-width="46%"
+  caption="The Encyclopaedia Britannica's multi-volume sets were symbols of authoritative knowledge—and the standard against which Wikipedia would soon be measured."
+  text=britannica_text
+%}
+A known example of this was back in 1994, when the Time Magazine digitally edited O.J. Simpson’s mugshot. They made his skin darker, this sparked public interest and invited critics to raise ethical questions such as what is the difference between documentation and distortion, and how photoshop makes it that much harder to answer. Even in the early years of Photoshop’s release, the duality of its ethical usage was recognized.
 
 {% endcapture %}
 
