@@ -22,19 +22,13 @@ In 1987, Thomas and John Knoll created Photoshop, and in 1990 it was released by
 The Aftermath
 
 Following its release, people began to have the feeling of excitement yet unease. Industries and companies all immediately began taking advantage of this new technology, due to the creative and artistic abilities like none other. Photoshop was now a groundbreaking invention, but like any other, it came with a downside. Concerns of digital editing challenging the credibility of images slowly started to become more prominent, especially among journalists and media scholars. 
-{% include images/figure-wrap.html
-  image-path="images/1994ojtime.jpg"
-  image-position="right"
-  image-width="46%"
-  caption="The Encyclopaedia Britannica's multi-volume sets were symbols of authoritative knowledge—and the standard against which Wikipedia would soon be measured."
-  text=britannica_text
-%}
+
 A known example of this was back in 1994, when the Time Magazine digitally edited O.J. Simpson’s mugshot. They made his skin darker, this sparked public interest and invited critics to raise ethical questions such as what is the difference between documentation and distortion, and how photoshop makes it that much harder to answer. Even in the early years of Photoshop’s release, the duality of its ethical usage was recognized.
 
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/books-britannica.jpeg"
+  image-path="images/1994ojtime.jpg"
   image-position="right"
   image-width="46%"
   caption="The Encyclopaedia Britannica's multi-volume sets were symbols of authoritative knowledge—and the standard against which Wikipedia would soon be measured."
