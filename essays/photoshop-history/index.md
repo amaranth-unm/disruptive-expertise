@@ -11,11 +11,7 @@ header-position: center
 
 # Wikipedia and the Wisdom of the Crowd
 
-On January 15, 2001, a website went live that contained almost nothing—a handful of stub articles, a blank editing interface, and a deceptively simple premise: anyone could write it. No credentials required. No editorial gatekeeping. No payment. Just a web browser and an opinion.
-
-Within three years, Wikipedia had more articles than the *Encyclopaedia Britannica*. Within a decade, it had become the largest reference work in human history. By almost any measure, it was an astonishing success—and one of the most unsettling intellectual disruptions of the twenty-first century. Not because it failed, but because it worked.
-
-The story of Wikipedia is not really a story about technology. It is a story about who gets to be an expert, who decides what counts as reliable knowledge, and what happens when those gatekeeping functions are suddenly thrown open to everyone.
+To understand the pending danger of Photoshop, we must take a step back to a time whenever photographs were widely accepted as evidence, a reliable source of credibility. Before digital editing ever became a thing, to alter a photograph meant using advanced darkroom techniques, with professionals specializing in the work. The equipment was very expensive, so this limited the accessibility of being able to edit pictures. That is why photographs had the authority to be used as evidence. Anything with pictures was deemed trustworthy, such as science, journalism, and everything else. In 1987, Thomas and John Knoll created Photoshop, and in 1990 it was released by Adobe Inc. This shifted everything, a simple application allowed users to alter an image at pixel levels. It could be used to change appearances and rewrite imperfections, essentially telling a whole new story. What once took expert resources and time is now able to be done at hand on someone’s personal computer. This was the turning point, changing the narrative of whether images could be trustworthy and treated as evidence.
 
 
 ## The World Wikipedia Disrupted
@@ -23,9 +19,7 @@ The story of Wikipedia is not really a story about technology. It is a story abo
 {% capture britannica_text %}
 To understand why Wikipedia was so threatening, you have to understand what it replaced.
 
-The *Encyclopaedia Britannica* was founded in Edinburgh in 1768 with an explicit promise: its articles would be written by recognized authorities in each field. That model—credentialed experts producing vetted, stable knowledge—defined reference works for two centuries. By the twentieth century, Britannica had become a cultural institution. Owning a set was a marker of middle-class aspiration; its contributors included Nobel laureates and heads of state.
-
-But it was also slow, expensive, and inevitably incomplete. A new edition took years to produce. Corrections were nearly impossible once printed. And the identity of "expert" it relied on—credentialed, Western, predominantly male—excluded enormous domains of knowledge.
+Following its release, people began to have the feeling of excitement yet unease. Industries and companies all immediately began taking advantage of this new technology, due to the creative and artistic abilities like none other. Photoshop was now a groundbreaking invention, but like any other, it came with a downside. Concerns of digital editing challenging the credibility of images slowly started to become more prominent, especially among journalists and media scholars. A known example of this was back in 1994, when the Time Magazine digitally edited O.J. Simpson’s mugshot. They made his skin darker, this sparked public interest and invited critics to raise ethical questions such as what is the difference between documentation and distortion, and how photoshop makes it that much harder to answer. Even in the early years of Photoshop’s release, the duality of its ethical usage was recognized.
 
 {% endcapture %}
 
@@ -37,20 +31,16 @@ But it was also slow, expensive, and inevitably incomplete. A new edition took y
   text=britannica_text
 %}
 
-Wikipedia's predecessor, Nupedia, tried to preserve this model for the web. Launched in 2000 by Jimmy Wales and Larry Sanger, Nupedia required peer review by credentialed academics before articles could be published. The result was agonizingly slow: after two years, Nupedia had produced just twenty-four complete articles. The expert model, it turned out, did not scale.
-
-The question Nupedia's failure raised was not "how do we do expert review faster?" It was more radical: what if expert review is the wrong mechanism entirely?
+What happened in the aftermath of the release of Photoshop, was expected but not at the pace it was presumed to be. Photoshop definitely disrupted the expertise required in traditional forms of photographic editing, but it also presented new forms of expertise. As it became more available to the public, it became normalized to edit pictures and rearrange appearances, especially on platforms such as social media, fashion brands, and any advertising. With the expansion of its use, people also learned to not instantly give trust to what they see, everyone became more skeptical and careful about what they believed was a true representation. Terms like “photoshopped” or “PS’ed” slowly became popular when viewing pictures, to the point where it is normal to not believe things online, even sometimes when it is real. Photoshop reshaped society, it destroyed the instant authority that images gave and built a completely contrasting theme of how images cannot be trusted. 
 
 
 {% include typography/pullquote.html text="\"Imagine a world in which every single human being can freely share in the sum of all human knowledge. That's what we're doing.\" — Jimmy Wales, Wikipedia co-founder" %}
 
 ## Anyone Can Edit
 
-Ward Cunningham had invented the "wiki" in 1995—a website that any visitor could edit directly, with changes appearing instantly. The concept was designed for software developers sharing documentation. When Larry Sanger suggested in January 2001 that Nupedia try a wiki as a "feeder" system for rough drafts, Wales agreed. Within days the wiki had more activity than Nupedia had seen in months.
+Learning about the history of photoshop, we are provided with a clear explanation of the problems it still presents today. As AI was born, tools like Deepfake Technology also surfaced. It is a more advanced definition of the same problem, which intensifies the concern of what is real and what isn’t. AI can not only generate photos, but now videos and audios of people, making it seem like it is really them. Just like how it was back then, this raised both excitement and concerns. The tools are excellent forms of innovation and technological advancements, but for the use of good or bad, depends on whose hands it falls upon.  Ultimately, AI further pushes the problem of genuine vs fake representations, as history repeats itself once more.
 
-The key insight was almost counterintuitive: the *lack* of a barrier to entry was a feature, not a bug. Removing the need for credentials meant removing the bottleneck. Wikipedia's growth was explosive precisely because it was unguarded. Anyone with knowledge—formal or informal, credentialed or accumulated through decades of lived experience—could contribute.
 
-This was not, at the time, considered a serious proposal for producing reliable knowledge. The experts said so, loudly.
 
 {% include scrollybox/bg.html
   image-path="images/market-view.jpg"
