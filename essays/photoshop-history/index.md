@@ -11,19 +11,19 @@ header-position: center
 
 # Photoshop and the Concerns it Brings
 
-To understand the pending danger of Photoshop, we must take a step back to a time whenever photographs were widely accepted as evidence, a reliable source of credibility. Before digital editing ever became a thing, to alter a photograph meant using advanced darkroom techniques, with professionals specializing in the work. The equipment was very expensive, so this limited the accessibility of being able to edit pictures. That is why photographs had the authority to be used as evidence. Anything with pictures was deemed trustworthy, such as science, journalism, and everything else. 
+To understand the danger Photoshop introduced, it is important to look back to a time when photographs were widely accepted as reliable evidence and symbols of credibility. Before digital editing technology existed, altering a photograph required advanced darkroom techniques performed by trained professionals. The equipment and expertise needed for photographic manipulation were expensive and inaccessible to most people, which limited the ability to alter images on a large scale. Because of this, photographs carried an authority that made them trustworthy in journalism, science, advertising, and even legal settings. Images were commonly viewed as direct representations of reality rather than constructed interpretations. 
 
-In 1987, Thomas and John Knoll created Photoshop, and in 1990 it was released by Adobe Inc. This shifted everything, a simple application allowed users to alter an image at pixel levels. It could be used to change appearances and rewrite imperfections, essentially telling a whole new story. What once took expert resources and time is now able to be done at hand on someone’s personal computer. This was the turning point, changing the narrative of whether images could be trustworthy and treated as evidence.
+That perception began to change in 1987, when Thomas and John Knoll created Photoshop, which was officially released by Adobe in 1990. Photoshop transformed image editing by allowing users to manipulate photographs at the pixel level on a personal computer. With a few tools, individuals could remove imperfections, alter appearances, and completely reshape the meaning of an image. What once required specialized knowledge, expensive equipment, and extensive time could now be done quickly and accessibly. Photoshop therefore marked a major turning point in visual culture, challenging the long-standing belief that photographs could automatically be trusted as objective evidence.
 
 
 ## The World Wikipedia Disrupted
 
 {% capture britannica_text %}
-The Aftermath
+What actually happened after the release?
 
-Following its release, people began to have the feeling of excitement yet unease. Industries and companies all immediately began taking advantage of this new technology, due to the creative and artistic abilities like none other. Photoshop was now a groundbreaking invention, but like any other, it came with a downside. Concerns of digital editing challenging the credibility of images slowly started to become more prominent, especially among journalists and media scholars. 
+Following its release, Photoshop generated both excitement and unease. Businesses, advertisers, artists, and media companies immediately recognized its creative potential. The software opened possibilities for artistic expression and commercial design unlike anything before it. However, alongside this innovation came growing ethical concerns surrounding authenticity and manipulation. Journalists, photographers, and media scholars began questioning whether digitally altered images could still be considered truthful representations of reality. 
 
-A known example of this was back in 1994, when the Time Magazine digitally edited O.J. Simpson’s mugshot. They made his skin darker, this sparked public interest and invited critics to raise ethical questions such as what is the difference between documentation and distortion, and how photoshop makes it that much harder to answer. Even in the early years of Photoshop’s release, the duality of its ethical usage was recognized.
+One of the earliest and most controversial examples occurred in 1994, when Time Magazine digitally altered O.J. Simpson’s mugshot for its cover. The edited image darkened Simpson’s skin tone and created a more dramatic and threatening appearance. The controversy sparked public debate about the ethics of digital manipulation and raised questions about the difference between documentation and distortion. Critics argued that Photoshop did not simply enhance photographs but had the power to reshape public perception itself. This moment demonstrated that even in Photoshop’s early years, society already recognized the tension between creativity and credibility.
 
 {% endcapture %}
 
