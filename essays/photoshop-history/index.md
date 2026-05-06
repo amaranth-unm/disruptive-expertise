@@ -11,17 +11,23 @@ header-position: center
 
 # Photoshop and the Concerns it Brings
 
-To understand the danger Photoshop introduced, it is important to look back to a time when photographs were widely accepted as reliable evidence and symbols of credibility. Before digital editing technology existed, altering a photograph required advanced darkroom techniques performed by trained professionals. The equipment and expertise needed for photographic manipulation were expensive and inaccessible to most people, which limited the ability to alter images on a large scale. Because of this, photographs carried an authority that made them trustworthy in journalism, science, advertising, and even legal settings. Images were commonly viewed as direct representations of reality rather than constructed interpretations. 
+To understand the danger Photoshop introduced, it is important to look back to a time when photographs were widely accepted as reliable evidence and symbols of credibility. Before digital editing technology existed, altering a photograph required advanced darkroom techniques performed by trained professionals. 
 
-That perception began to change in 1987, when Thomas and John Knoll created Photoshop, which was officially released by Adobe in 1990. Photoshop transformed image editing by allowing users to manipulate photographs at the pixel level on a personal computer. With a few tools, individuals could remove imperfections, alter appearances, and completely reshape the meaning of an image. What once required specialized knowledge, expensive equipment, and extensive time could now be done quickly and accessibly. Photoshop therefore marked a major turning point in visual culture, challenging the long-standing belief that photographs could automatically be trusted as objective evidence.
+The equipment and expertise needed for photographic manipulation were expensive and inaccessible to most people, which limited the ability to alter images on a large scale. Because of this, photographs carried an authority that made them trustworthy in journalism, science, advertising, and even legal settings. Images were commonly viewed as direct representations of reality rather than constructed interpretations. 
+
+That perception began to change in 1987, when Thomas and John Knoll created Photoshop, which was officially released by Adobe in 1990. Photoshop transformed image editing by allowing users to manipulate photographs at the pixel level on a personal computer. With a few tools, individuals could remove imperfections, alter appearances, and completely reshape the meaning of an image. 
+
+What once required specialized knowledge, expensive equipment, and extensive time could now be done quickly and accessibly. Photoshop therefore marked a major turning point in visual culture, challenging the long-standing belief that photographs could automatically be trusted as objective evidence.
 
 
-## The World Wikipedia Disrupted
+## The World Photoshop Disrupted
 
 {% capture britannica_text %}
 What actually happened after the release?
 
-Following its release, Photoshop generated both excitement and unease. Businesses, advertisers, artists, and media companies immediately recognized its creative potential. The software opened possibilities for artistic expression and commercial design unlike anything before it. However, alongside this innovation came growing ethical concerns surrounding authenticity and manipulation. Journalists, photographers, and media scholars began questioning whether digitally altered images could still be considered truthful representations of reality. 
+Following its release, Photoshop generated both excitement and unease. Businesses, advertisers, artists, and media companies immediately recognized its creative potential. The software opened possibilities for artistic expression and commercial design unlike anything before it. 
+
+However, alongside this innovation came growing ethical concerns surrounding authenticity and manipulation. Journalists, photographers, and media scholars began questioning whether digitally altered images could still be considered truthful representations of reality. 
 
 One of the earliest and most controversial examples occurred in 1994, when Time Magazine digitally altered O.J. Simpson’s mugshot for its cover. The edited image darkened Simpson’s skin tone and created a more dramatic and threatening appearance. The controversy sparked public debate about the ethics of digital manipulation and raised questions about the difference between documentation and distortion. Critics argued that Photoshop did not simply enhance photographs but had the power to reshape public perception itself. This moment demonstrated that even in Photoshop’s early years, society already recognized the tension between creativity and credibility.
 
@@ -35,14 +41,17 @@ One of the earliest and most controversial examples occurred in 1994, when Time 
   text=britannica_text
 %}
 
-What happened in the aftermath of the release of Photoshop, was expected but not at the pace it was presumed to be. Photoshop definitely disrupted the expertise required in traditional forms of photographic editing, but it also presented new forms of expertise. As it became more available to the public, it became normalized to edit pictures and rearrange appearances, especially on platforms such as social media, fashion brands, and any advertising. With the expansion of its use, people also learned to not instantly give trust to what they see, everyone became more skeptical and careful about what they believed was a true representation. Terms like “photoshopped” or “PS’ed” slowly became popular when viewing pictures, to the point where it is normal to not believe things online, even sometimes when it is real. Photoshop reshaped society, it destroyed the instant authority that images gave and built a completely contrasting theme of how images cannot be trusted. 
+As Photoshop became increasingly available to the public, its influence expanded rapidly across media and culture. The software disrupted traditional forms of photographic expertise by making advanced editing accessible to ordinary users rather than only trained professionals. 
 
+At the same time, it also created new forms of expertise centered around digital editing and visual manipulation. Social media platforms, fashion industries, and advertising campaigns normalized the editing of appearances to the point where altered images became an everyday expectation. Gradually, people learned not to immediately trust what they saw online or in print.
 
 {% include typography/pullquote.html text="\"Photography has always been assumed to be truthful, but Photoshop changes that assumption.\" — Fred Ritchin, photojournalist and filmmaker." %}
 
 ## Anyone Can Edit
 
-Learning about the history of photoshop, we are provided with a clear explanation of the problems it still presents today. As AI was born, tools like Deepfake Technology also surfaced. It is a more advanced definition of the same problem, which intensifies the concern of what is real and what isn’t. AI can not only generate photos, but now videos and audios of people, making it seem like it is really them. Just like how it was back then, this raised both excitement and concerns. The tools are excellent forms of innovation and technological advancements, but for the use of good or bad, depends on whose hands it falls upon.  Ultimately, AI further pushes the problem of genuine vs fake representations, as history repeats itself once more.
+This cultural shift fundamentally changed the relationship between society and photography. Terms such as “photoshopped” or “PS’ed” became common phrases used to question whether an image was genuine. Digital manipulation no longer appeared rare or shocking; instead, skepticism toward images became normalized. 
+
+Media theorists and critics increasingly warned that Photoshop weakened the credibility photography once possessed. As digital forensics expert Hany Farid explained, “Seeing is no longer believing.” His statement captures how Photoshop disrupted the historical assumption that photographs represented reality. Rather than serving as unquestioned evidence, images became objects of suspicion and interpretation.
 
 
 
@@ -52,15 +61,11 @@ Learning about the history of photoshop, we are provided with a clear explanatio
   below-box-space="80vh"
   box-align="right"
   box-content="
-## The Wiki Model: A Different Theory of Knowledge
+## Today's World: Photoshops Dangerous Advancement's
 
-Traditional encyclopedias assumed that reliable knowledge flows *downward*: from credentialed experts to the reading public.
+The long-term effects of Photoshop are even more relevant today with the rise of artificial intelligence. Modern AI tools, including deepfake technology, represent a more advanced version of the same issue Photoshop first introduced decades ago. 
 
-Wikipedia inverted this. It assumed knowledge could flow *upward* and *sideways*—from anyone who knew something to everyone who needed it. Errors would be caught not by editors in advance, but by readers and other contributors over time.
-
-This is sometimes called the 'bazaar' model, as opposed to the 'cathedral' model of traditional scholarly publishing. The cathedral is designed by architects and built according to a plan. The bazaar is chaotic, self-organizing, and—against all expectations—often works.
-
-The philosopher Yochai Benkler called this 'commons-based peer production,' arguing in a landmark 2002 *Yale Law Journal* article that it represented a genuinely new mode of knowledge production—neither market-based nor state-organized, but collaborative and distributed.
+AI can now generate realistic photographs, videos, and audio recordings that appear entirely authentic despite being fabricated. Similar to the public reaction to Photoshop in the 1990s, these technologies have created both excitement and fear. While AI offers powerful opportunities for creativity and innovation, it also intensifies concerns surrounding misinformation, deception, and the collapse of visual trust.
 "
 %}
 
