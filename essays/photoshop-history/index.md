@@ -56,7 +56,7 @@ Media theorists and critics increasingly warned that Photoshop weakened the cred
 
 
 {% include scrollybox/bg.html
-  image-path="images/market-view.jpg"
+  image-path="images/a2eae4bbac9708df67a2763c319b8fd4.jpg"
   above-box-space="90vh"
   below-box-space="80vh"
   box-align="right"
@@ -65,16 +65,18 @@ Media theorists and critics increasingly warned that Photoshop weakened the cred
 
 The long-term effects of Photoshop are even more relevant today with the rise of artificial intelligence. Modern AI tools, including deepfake technology, represent a more advanced version of the same issue Photoshop first introduced decades ago. 
 
-AI can now generate realistic photographs, videos, and audio recordings that appear entirely authentic despite being fabricated. Similar to the public reaction to Photoshop in the 1990s, these technologies have created both excitement and fear. While AI offers powerful opportunities for creativity and innovation, it also intensifies concerns surrounding misinformation, deception, and the collapse of visual trust.
+AI can now generate realistic photographs, videos, and audio recordings that appear entirely authentic despite being fabricated. Similar to the public reaction to Photoshop in the 1990s, these technologies have created both excitement and fear. 
+
+While AI offers powerful opportunities for creativity and innovation, it also intensifies concerns surrounding misinformation, deception, and the collapse of visual trust.
 "
 %}
 
 
-## The Critics Respond
+## What changed Forever
 
-The backlash was immediate and, in some quarters, never stopped.
+Ultimately, Photoshop reshaped society’s understanding of images and credibility. It democratized digital editing and expanded creative possibilities, but it also weakened the automatic authority photographs once carried. 
 
-Robert McHenry, a former editor-in-chief of the *Encyclopaedia Britannica*, published a widely-cited essay in 2004 called "The Faith-Based Encyclopedia." His argument was withering: Wikipedia's quality was not just unpredictable but *unknowable*. Because any article could be edited at any moment by anyone, a reader had no way of knowing whether what they were reading had been there for three years or three minutes. He compared using Wikipedia to leaving one's health in the hands of a randomly chosen passerby. A user "may or may not be informed, but is, in any case, not accountable and not qualifiable."
+The release of Photoshop marked the beginning of a cultural shift in which images could no longer be accepted as unquestionable truth. Today, as AI-generated media becomes increasingly advanced, the same concerns continue to evolve. The debate is no longer simply about whether an image has been edited, but whether visual evidence itself can still be trusted in a digital world.
 
 {% include typography/pullquote.html text="\"The user who visits Wikipedia to learn about some subject, to confirm some piece of information, or to find a source for some assertion is rather in the position of a visitor to a public restroom. It may be obviously dirty, so that he knows to exercise great care, or it may seem fairly clean, yet still be contaminated in ways that are not immediately apparent.\" — Robert McHenry, 2004" %}
 
