@@ -3,9 +3,9 @@ title: "Photoshop"
 layout: scrollstory
 header-image: images/Surreal-Photo-Manipulation.jpg
 thumbnail: images/Surreal-Photo-Manipulation.jpg
-summary: When Wikipedia launched in 2001, it didn't just build a new encyclopedia—it challenged the centuries-old assumption that reliable knowledge requires certified experts to produce it.
-header-title: Wikipedia and the Wisdom of the Crowd
-header-subtitle: How a Free Encyclopedia Disrupted Expertise
+summary: When Photoshop was born, it forever changed the trust and credibility that photos carried, and completely disrupted the expertise that was required to edit photos. It replaced what took professionals hours to do, with a process that could be done on a personal computer within minutes.
+header-title: Photoshop and the Concerns it Brings
+header-subtitle: How Photoshop Disrupted Expertise
 header-position: center
 ---
 
@@ -47,7 +47,7 @@ At the same time, it also created new forms of expertise centered around digital
 
 {% include typography/pullquote.html text="\"Photography has always been assumed to be truthful, but Photoshop changes that assumption.\" — Fred Ritchin, photojournalist and filmmaker." %}
 
-## Anyone Can Edit
+## Trust broken
 
 This cultural shift fundamentally changed the relationship between society and photography. Terms such as “photoshopped” or “PS’ed” became common phrases used to question whether an image was genuine. Digital manipulation no longer appeared rare or shocking; instead, skepticism toward images became normalized. 
 
@@ -61,7 +61,7 @@ Media theorists and critics increasingly warned that Photoshop weakened the cred
   below-box-space="80vh"
   box-align="right"
   box-content="
-## Today's World: Photoshops Dangerous Advancement's
+## Today's World: Photoshops Dangerous Advancements
 
 The long-term effects of Photoshop are even more relevant today with the rise of artificial intelligence. Modern AI tools, including deepfake technology, represent a more advanced version of the same issue Photoshop first introduced decades ago. 
 
@@ -79,11 +79,11 @@ Ultimately, Photoshop reshaped society’s understanding of images and credibili
 The release of Photoshop marked the beginning of a cultural shift in which images could no longer be accepted as unquestionable truth. Today, as AI-generated media becomes increasingly advanced, the same concerns continue to evolve. The debate is no longer simply about whether an image has been edited, but whether visual evidence itself can still be trusted in a digital world.
 
 {% include images/jumbotron.html
-  image-path="images/head-to-head.webp"
+  image-path="images/Thomas-and-john-knoll-768x491.webp"
   height="85vh"
   background-position="center top"
   box-align="left"
-  text="In a blind comparison of 42 science articles, *Nature* found Wikipedia's error rate roughly comparable to Britannica's: 4 errors per article vs. 3. The finding sent shockwaves through both the encyclopedic establishment and the open-source community."
+  text="Thomas and John Knoll"
 %}
 
 {% include scrollybox/bg.html
