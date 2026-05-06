@@ -31,7 +31,7 @@ A known example of this was back in 1994, when the Time Magazine digitally edite
   image-path="images/1994ojtime.jpg"
   image-position="right"
   image-width="46%"
-  caption="OJ Simpson's darkened mugshot"
+  caption="           OJ Simpson's darkened mugshot"
   text=britannica_text
 %}
 
