@@ -1,5 +1,5 @@
 ---
-title: "Photoshop and the Concerns it brings"
+title: "Wikipedia and the Wisdom of the Crowd"
 layout: scrollstory
 header-image: images/jimmy-wales-imac.jpg
 thumbnail: images/jimmy-wales-imac.jpg
