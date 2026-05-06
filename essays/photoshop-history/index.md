@@ -79,11 +79,11 @@ Ultimately, Photoshop reshaped society’s understanding of images and credibili
 The release of Photoshop marked the beginning of a cultural shift in which images could no longer be accepted as unquestionable truth. Today, as AI-generated media becomes increasingly advanced, the same concerns continue to evolve. The debate is no longer simply about whether an image has been edited, but whether visual evidence itself can still be trusted in a digital world.
 
 {% include images/jumbotron.html
-  image-path="images/Thomas-and-john-knoll-768x491.webp"
+  image-path="images/fantasy-photography-photoshop-art-before-after-shots-the-nicest-misanthrope-fb13.png"
   height="85vh"
   background-position="center top"
   box-align="left"
-  text="Thomas and John Knoll"
+  text="Before and After"
 %}
 
 {% include scrollybox/bg.html
