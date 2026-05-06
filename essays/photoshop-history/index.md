@@ -56,7 +56,7 @@ Media theorists and critics increasingly warned that Photoshop weakened the cred
 
 
 {% include scrollybox/bg.html
-  image-path="images/a2eae4bbac9708df67a2763c319b8fd4.jpg"
+  image-path="images/maxresdefault.jpg"
   above-box-space="90vh"
   below-box-space="80vh"
   box-align="right"
