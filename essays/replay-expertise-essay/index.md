@@ -44,7 +44,7 @@ Wikipedia's predecessor, Nupedia, tried to preserve this model for the web. Laun
 The question Nupedia's failure raised was not "how do we do expert review faster?" It was more radical: what if expert review is the wrong mechanism entirely?
 
 
-{% include typography/pullquote.html text="\"Imagine a world in which every single human being can freely share in the sum of all human knowledge. That's what we're doing.\" — Jimmy Wales, Wikipedia co-founder" %}
+{% include typography/pullquote.html text="\"This is not live! Ladies and Gentlemen, Army did not score again!" "— Lindsey Nelson, CBS Broadcaster, December 7, 1963." %}
 
 ## Anyone Can Edit
 
