@@ -9,7 +9,7 @@ header-subtitle: Instant Replay and the Crisis of the Human Eye
 header-position: center
 ---
 
-## The Game
+## The Game that was seen
 
 On December 7, 1963, during the annual Army/Navy football game, a 29 year old CBS director named Tony Verna debuted a technological "hack" that would fundamentally alter the human relationship with time and truth. 
 
