@@ -47,7 +47,7 @@ The question Verna’s success raised was not "how do we officiate faster?" It w
 
 Ward Cunningham invented the 'wiki' to democratize editing; Tony Verna accidentally democratized 'judging.' When Verna successfully triggered the replay of quarterback Rollie Stichweh’s touchdown, the audience didn't see it as a 'tool.' They saw it as a ghost in the machine.
 
-Because the game took place just 15 days after the assassination of John F. Kennedy, the public was already in a state of psychological shock regarding televised truth. The nation had spent two weeks watching the same loops of footage—the funeral, the Zapruder film—trying to find meaning in recorded time. When the replay appeared, the lack of a barrier between 'recorded past' and 'live present' felt like a rupture.
+Because the game took place just 15 days after the assassination of John F. Kennedy, the public was already in a state of psychological shock regarding televised truth. The nation had spent two weeks watching the same loops of footage, the funeral, the Zapruder film, trying to find meaning in recorded time. When the replay appeared, the lack of a barrier between 'recorded past' and 'live present' felt like a rupture.
 
 {% include scrollybox/bg.html
   image-path="images/replay-machine.jpg"
@@ -59,9 +59,9 @@ Because the game took place just 15 days after the assassination of John F. Kenn
 
 Traditional officiating assumed that reliable knowledge flows downward: from the credentialed official on the grass to the reading public at home.
 
-Instant replay inverted this. It assumed knowledge could flow upward and sideways—from the camera angles to the viewers. Errors would be caught not by the man with the whistle in advance, but by the audience and the production booth over time.
+Instant replay inverted this. It assumed knowledge could flow upward and sideways, from the camera angles to the viewers. Errors would be caught not by the man with the whistle in advance, but by the audience and the production booth over time.
 
-This is the 'bazaar' model of truth: chaotic, self-organizing, and—against all expectations—more reliable than a single human expert.
+This is the 'bazaar' model of truth: chaotic, self-organizing, and against all expectations, more reliable than a single human expert.
 "
 %}
 
@@ -70,14 +70,14 @@ This is the 'bazaar' model of truth: chaotic, self-organizing, and—against all
 
 The backlash was immediate. League traditionalists argued that allowing machines to override humans would destroy the 'human element' of authority. They claimed replay's quality was unpredictable and unknowable. 
 
-For decades, a bizarre 'Authority Gap' existed: fans at home could see a mistake in high-definition, but the referee—the 'certified expert'—was forbidden from looking at the screen. Critics compared using a machine to judge a game to leaving one’s health in the hands of a randomly chosen passerby. They were defending a model of expertise that had its own blind spots—ones that the critics were often slow to acknowledge.
+For decades, a bizarre 'Authority Gap' existed: fans at home could see a mistake in high-definition, but the referee, the 'certified expert', was forbidden from looking at the screen. Critics compared using a machine to judge a game to leaving one’s health in the hands of a randomly chosen passerby. They were defending a model of expertise that had its own blind spots, ones that the critics were often slow to acknowledge.
 
 {% include typography/pullquote.html text="\"This is not live! Ladies and Gentlemen, Army did not score again!\" — Lindsey Nelson, 1963 CBS Announcer" %}
 
 
 ## The Famous Test: 1986
 
-In December 1986, the NFL finally launched its own version of a 'Nature study'—a formal test of the replay system as a tool for justice. 
+In December 1986, the NFL finally launched its own version of a 'Nature study', a formal test of the replay system as a tool for justice. 
 
 {% include images/jumbotron.html
   image-path="images/army-player.jpeg"
@@ -87,7 +87,7 @@ In December 1986, the NFL finally launched its own version of a 'Nature study'�
   text="The 1986 season sent shockwaves through the sports establishment. In a blind comparison of human calls vs. camera angles, the finding landed a lasting blow to the assumption that formal on-field structures were the only way to find information."
 %}
 
-The results were striking: the machines caught errors that the humans missed. Tom Nichols, writing in *The Death of Expertise*, worried that findings like these gave 'ordinary citizens' permission to distrust expertise altogether—that the lesson taken from replay was not 'camera review can help,' but 'the referee isn't necessary.' His concern reflected something real: the disruption instant replay represented was not merely institutional. It was epistemological.
+The results were striking: the machines caught errors that the humans missed. Tom Nichols, writing in *The Death of Expertise*, worried that findings like these gave 'ordinary citizens' permission to distrust expertise altogether, that the lesson taken from replay was not 'camera review can help,' but 'the referee isn't necessary.' His concern reflected something real: the disruption instant replay represented was not merely institutional. It was epistemological.
 
 
 ## What Actually Happened
@@ -133,6 +133,6 @@ Logan, Robert K. "Figure/Ground: Cracking the McLuhan Code." *E-Compós*, v. 14,
 
 Mulvin, Dylan Wesley. "Human Eye Inadequate: Instant Replay and the Politics of Video." *Journal of Visual Culture.*
 
-"Tony Verna | Television Academy Interviews." Interview conducted by Karen Herman, June 17, 2004.
+Tony Verna | "Television Academy Interviews." Interview conducted by Karen Herman, June 17, 2004.
 
 National Archives. "Warren Commission Hearings, Volume XVI." (Consulted for context on visual evidence standards in 1963).
