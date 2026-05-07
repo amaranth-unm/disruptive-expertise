@@ -4,18 +4,18 @@ layout: scrollstory
 header-image: images/replay-machine.jpg
 thumbnail: images/tony verna.jpg
 summary: When instant replay debuted during the 1963 Army-Navy game, it did more than just revolutionize sports broadcasting—it shattered the centuries-old assumption that the human eye is the ultimate witness to truth. By allowing a 1,200-pound machine to "rewind" reality in real-time, it triggered a crisis of authority that forced society to move away from trusting biological experts and toward a reliance on machine-verified evidence, a transition that directly parallels our modern struggle to navigate the "truth" of Artificial Intelligence.
-header-title: Wikipedia and the Wisdom of the Crowd
-header-subtitle: How a Free Encyclopedia Disrupted Expertise
+header-title: The Death of Infallibility
+header-subtitle: Instant Replay and the Crisis of the Human Eye
 header-position: center
 ---
 
-# Wikipedia and the Wisdom of the Crowd
+## The Game
 
-On January 15, 2001, a website went live that contained almost nothing—a handful of stub articles, a blank editing interface, and a deceptively simple premise: anyone could write it. No credentials required. No editorial gatekeeping. No payment. Just a web browser and an opinion.
+On December 7, 1963, during the annual Army/Navy football game, a 29 year old CBS director named Tony Verna debuted a technological "hack" that would fundamentally alter the human relationship with time and truth. 
 
-Within three years, Wikipedia had more articles than the *Encyclopaedia Britannica*. Within a decade, it had become the largest reference work in human history. By almost any measure, it was an astonishing success—and one of the most unsettling intellectual disruptions of the twenty-first century. Not because it failed, but because it worked.
+Using a 1,200-pound Ampex videotape machine, a behemoth the size of an industrial refrigerator, Verna developed a way to "cue" the tape using secondary audio track beeps. By listening for these pulses, the operator could find the start of a play and "rewind" reality. 
 
-The story of Wikipedia is not really a story about technology. It is a story about who gets to be an expert, who decides what counts as reliable knowledge, and what happens when those gatekeeping functions are suddenly thrown open to everyone.
+While magnetic tape existed, it had never been used to manipulate the "live" present. Verna essentially hacked the linear flow of history, creating a world where the past could be re-summoned at the push of a button.
 
 
 ## The World Wikipedia Disrupted
