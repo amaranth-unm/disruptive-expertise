@@ -19,6 +19,8 @@ While magnetic tape existed, it had never been used to manipulate the "live" pre
 
 ## The World Before Replay
 
+{% capture verna_text %}
+
 To understand why instant replay was so disruptive, one must understand the "Infallible Witness" model it replaced. For centuries, the authority of an event relied on the biological eye. 
 
 In sports, the referee’s word was law not because he was perfect, but because there was no alternative record. Reality was ephemeral; once a play happened, it vanished into memory. If you were not there to see it, or if you blinked at the wrong moment, the truth was gone.
