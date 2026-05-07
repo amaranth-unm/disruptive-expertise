@@ -32,7 +32,7 @@ The technology did not just supplement the referee; it suggested that human visi
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/army-player.jpg"
+  image-path="/images/army-player.jpg"
   image-position="right"
   image-width="46%"
   caption="During the CBS broadcast of the Army-Navy game. The historic play featured Army quarterback Rollie Stichweh, number 16, who scored a 1-yard touchdown in the fourth quarter."
