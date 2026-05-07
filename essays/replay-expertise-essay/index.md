@@ -17,7 +17,6 @@ Using a 1,200-pound Ampex videotape machine, a behemoth the size of an industria
 
 While magnetic tape existed, it had never been used to manipulate the "live" present. Verna essentially hacked the linear flow of history, creating a world where the past could be re-summoned at the push of a button.
 
-
 ## The World Wikipedia Disrupted
 
 {% capture britannica_text %}
