@@ -17,23 +17,23 @@ Using a 1,200-pound Ampex videotape machine, a behemoth the size of an industria
 
 While magnetic tape existed, it had never been used to manipulate the "live" present. Verna essentially hacked the linear flow of history, creating a world where the past could be re-summoned at the push of a button.
 
-## The World Wikipedia Disrupted
+## The World Before Replay
 
-{% capture britannica_text %}
-To understand why Wikipedia was so threatening, you have to understand what it replaced.
+To understand why instant replay was so disruptive, one must understand the "Infallible Witness" model it replaced. For centuries, the authority of an event relied on the biological eye. 
 
-The *Encyclopaedia Britannica* was founded in Edinburgh in 1768 with an explicit promise: its articles would be written by recognized authorities in each field. That model—credentialed experts producing vetted, stable knowledge—defined reference works for two centuries. By the twentieth century, Britannica had become a cultural institution. Owning a set was a marker of middle-class aspiration; its contributors included Nobel laureates and heads of state.
+In sports, the referee’s word was law not because he was perfect, but because there was no alternative record. Reality was ephemeral; once a play happened, it vanished into memory. If you were not there to see it, or if you blinked at the wrong moment, the truth was gone.
 
-But it was also slow, expensive, and inevitably incomplete. A new edition took years to produce. Corrections were nearly impossible once printed. And the identity of "expert" it relied on—credentialed, Western, predominantly male—excluded enormous domains of knowledge.
+The 1960s were defined by this "expert-witness" model. The credentialed official—much like a credentialed encyclopedia editor—was the sole gatekeeper of truth. As Dylan Wesley Mulvin argues in “Human Eye Inadequate,” the introduction of the replay was a public admission of biological failure. 
+
+The technology did not just supplement the referee; it suggested that human vision was inherently flawed and "inadequate" for the speed of modern life. It raised a radical question: what if human observation is the wrong mechanism for determining truth?
 
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/books-britannica.jpeg"
+  image-path="images/army-player.jpeg"
   image-position="right"
   image-width="46%"
-  caption="The Encyclopaedia Britannica's multi-volume sets were symbols of authoritative knowledge—and the standard against which Wikipedia would soon be measured."
-  text=britannica_text
+  caption="During the CBS broadcast of the Army-Navy game. The historic play featured Army quarterback Rollie Stichweh (number 16), who scored a 1-yard touchdown in the fourth quarter."
 %}
 
 Wikipedia's predecessor, Nupedia, tried to preserve this model for the web. Launched in 2000 by Jimmy Wales and Larry Sanger, Nupedia required peer review by credentialed academics before articles could be published. The result was agonizingly slow: after two years, Nupedia had produced just twenty-four complete articles. The expert model, it turned out, did not scale.
