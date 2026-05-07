@@ -36,6 +36,7 @@ The technology did not just supplement the referee; it suggested that human visi
   image-position="right"
   image-width="46%"
   caption="During the CBS broadcast of the Army-Navy game. The historic play featured Army quarterback Rollie Stichweh, number 16, who scored a 1-yard touchdown in the fourth quarter."
+  text=verna_text
 %}
 
 Wikipedia's predecessor, Nupedia, tried to preserve this model for the web. Launched in 2000 by Jimmy Wales and Larry Sanger, Nupedia required peer review by credentialed academics before articles could be published. The result was agonizingly slow: after two years, Nupedia had produced just twenty-four complete articles. The expert model, it turned out, did not scale.
