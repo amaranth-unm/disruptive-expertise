@@ -95,7 +95,7 @@ The results were striking: the machines caught errors that the humans missed. To
 {% capture aftermath_text %}
 By the time critics had fully articulated their concerns, instant replay had already transformed the information landscape. 
 
-The market for the 'Infallible Expert' had simply collapsed. Officiating pivoted to a centralized digital service—now known as Art McNally GameDay Central. The disruption Wikipedia represented was real, but instant replay paved the road. It proved that a living document—a garden that grew and changed through multiple angles of view—was more resilient than a single, fixed perspective. 
+The market for the 'Infallible Expert' had simply collapsed. Officiating pivoted to a centralized digital service, now known as Art McNally GameDay Central. The disruption Wikipedia represented was real, but instant replay paved the road. It proved that a living document, a garden that grew and changed through multiple angles of view—was more resilient than a single, fixed perspective. 
 {% endcapture %}
 
 {% include images/figure-wrap.html
@@ -133,6 +133,6 @@ Logan, Robert K. "Figure/Ground: Cracking the McLuhan Code." *E-Compós*, v. 14,
 
 Mulvin, Dylan Wesley. "Human Eye Inadequate: Instant Replay and the Politics of Video." *Journal of Visual Culture.*
 
-Tony Verna | "Television Academy Interviews." Interview conducted by Karen Herman, June 17, 2004.
+Tony Verna Television Academy Interviews. Interview conducted by Karen Herman, June 17, 2004.
 
 National Archives. "Warren Commission Hearings, Volume XVI." (Consulted for context on visual evidence standards in 1963).
