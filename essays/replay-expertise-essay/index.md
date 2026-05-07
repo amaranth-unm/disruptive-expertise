@@ -25,10 +25,6 @@ To understand why instant replay was so disruptive, one must understand the "Inf
 
 In sports, the referee’s word was law not because he was perfect, but because there was no alternative record. Reality was ephemeral; once a play happened, it vanished into memory. If you were not there to see it, or if you blinked at the wrong moment, the truth was gone.
 
-The 1960s were defined by this "expert-witness" model. The credentialed official—much like a credentialed encyclopedia editor—was the sole gatekeeper of truth. As Dylan Wesley Mulvin argues in “Human Eye Inadequate,” the introduction of the replay was a public admission of biological failure. 
-
-The technology did not just supplement the referee; it suggested that human vision was inherently flawed and "inadequate" for the speed of modern life. It raised a radical question: what if human observation is the wrong mechanism for determining truth?
-
 {% endcapture %}
 
 {% include images/figure-wrap.html
@@ -39,10 +35,9 @@ The technology did not just supplement the referee; it suggested that human visi
   text=verna_text
 %}
 
-Wikipedia's predecessor, Nupedia, tried to preserve this model for the web. Launched in 2000 by Jimmy Wales and Larry Sanger, Nupedia required peer review by credentialed academics before articles could be published. The result was agonizingly slow: after two years, Nupedia had produced just twenty-four complete articles. The expert model, it turned out, did not scale.
+The 1960s were defined by this "expert witness" model. The credentialed official, much like a credentialed encyclopedia editor, was the sole gatekeeper of truth. As Dylan Wesley Mulvin argues in “Human Eye Inadequate,” the introduction of the replay was a public admission of biological failure. 
 
-The question Nupedia's failure raised was not "how do we do expert review faster?" It was more radical: what if expert review is the wrong mechanism entirely?
-
+The technology did not just supplement the referee; it suggested that human vision was inherently flawed and "inadequate" for the speed of modern life. It raised a radical question: what if human observation is the wrong mechanism for determining truth?
 
 {% include typography/pullquote.html text="\"This is not live! Ladies and Gentlemen, Army did not score again!\"— Lindsey Nelson, CBS Broadcaster, December 7, 1963." %}
 
