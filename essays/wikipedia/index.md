@@ -1,8 +1,8 @@
 ---
 title: "The Death of Infallibility: Instant Replay and the Crisis of the Human Eye"
 layout: scrollstory
-header-image: images/jimmy-wales-imac.jpg
-thumbnail: images/jimmy-wales-imac.jpg
+header-image: images/tony verna.jpg
+thumbnail: images/tony verna.jpg
 summary: When instant replay debuted during the 1963 Army-Navy game, it did more than just revolutionize sports broadcasting—it shattered the centuries-old assumption that the human eye is the ultimate witness to truth. By allowing a 1,200-pound machine to "rewind" reality in real-time, it triggered a crisis of authority that forced society to move away from trusting biological experts and toward a reliance on machine-verified evidence, a transition that directly parallels our modern struggle to navigate the "truth" of Artificial Intelligence.
 header-title: Wikipedia and the Wisdom of the Crowd
 header-subtitle: How a Free Encyclopedia Disrupted Expertise
