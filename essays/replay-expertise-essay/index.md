@@ -41,13 +41,17 @@ The technology did not just supplement the referee; it suggested that human visi
 
 {% include typography/pullquote.html text="\"This is not live! Ladies and Gentlemen, Army did not score again!\"— Lindsey Nelson, CBS Broadcaster, December 7, 1963." %}
 
-## Anyone Can Edit
+## The Moment of Rupture
 
-Ward Cunningham had invented the "wiki" in 1995—a website that any visitor could edit directly, with changes appearing instantly. The concept was designed for software developers sharing documentation. When Larry Sanger suggested in January 2001 that Nupedia try a wiki as a "feeder" system for rough drafts, Wales agreed. Within days the wiki had more activity than Nupedia had seen in months.
+The debut of instant replay was not a smooth success; it was a psychological shock. 
 
-The key insight was almost counterintuitive: the *lack* of a barrier to entry was a feature, not a bug. Removing the need for credentials meant removing the bottleneck. Wikipedia's growth was explosive precisely because it was unguarded. Anyone with knowledge—formal or informal, credentialed or accumulated through decades of lived experience—could contribute.
+The game took place just 15 days after the assassination of John F. Kennedy, a moment when the American public was already tethered to the television as a source of traumatic, unalterable truth. When Verna successfully triggered the replay of a touchdown by Army quarterback Rollie Stichweh, the home audience, lacking a mental category for "recorded time" panicked.
 
-This was not, at the time, considered a serious proposal for producing reliable knowledge. The experts said so, loudly.
+They believed Army had scored a second touchdown in mere seconds.
+
+The confusion was so great that announcer Lindsey Nelson had to shout into the microphone to stabilize the audience’s reality: "This is not live! Ladies and Gentlemen, Army did not score again!"
+
+While sportswriters described the feat as a "technical miracle," media theorist Marshall McLuhan saw it deeper. He argued that this technology transformed the viewer from a passive observer into a "judge," fostering a new culture where the audience expects and eventually demands, machine-verified truth over human testimony.
 
 {% include scrollybox/bg.html
   image-path="images/market-view.jpg"
@@ -55,17 +59,6 @@ This was not, at the time, considered a serious proposal for producing reliable 
   below-box-space="80vh"
   box-align="right"
   box-content="
-## The Wiki Model: A Different Theory of Knowledge
-
-Traditional encyclopedias assumed that reliable knowledge flows *downward*: from credentialed experts to the reading public.
-
-Wikipedia inverted this. It assumed knowledge could flow *upward* and *sideways*—from anyone who knew something to everyone who needed it. Errors would be caught not by editors in advance, but by readers and other contributors over time.
-
-This is sometimes called the 'bazaar' model, as opposed to the 'cathedral' model of traditional scholarly publishing. The cathedral is designed by architects and built according to a plan. The bazaar is chaotic, self-organizing, and—against all expectations—often works.
-
-The philosopher Yochai Benkler called this 'commons-based peer production,' arguing in a landmark 2002 *Yale Law Journal* article that it represented a genuinely new mode of knowledge production—neither market-based nor state-organized, but collaborative and distributed.
-"
-%}
 
 
 ## The Critics Respond
