@@ -20,7 +20,7 @@ A quote from the book No-Budget Feature Filmmaking in the Digital Era by Adam Ni
 
 
 {% include images/figure-wrap.html
-  image-path="Fotothek_df_pk_0000165_012.jpg"
+  image-path="fotothek_df_pk_0000165_012.jpg"
   image-position="right"
   image-width="46%"
 %}
