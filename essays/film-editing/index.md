@@ -1,11 +1,11 @@
 ---
 title: "The Rise of Film Editing in the Digital Age"
 layout: scrollstory
-header-image: images/jimmy-wales-imac.jpg
-thumbnail: images/jimmy-wales-imac.jpg
-summary: When Wikipedia launched in 2001, it didn't just build a new encyclopedia—it challenged the centuries-old assumption that reliable knowledge requires certified experts to produce it.
+header-image: 5e2b661b52301a7c75114545_1-Video-Editing-Hero.jpg
+thumbnail: 5e2b661b52301a7c75114545_1-Video-Editing-Hero.jpg
+summary: When Film editing went from manual cuts to digital ones
 header-title: The Rise of Film Editing in the Digital Age
-header-subtitle: How a Free Encyclopedia Disrupted Expertise
+header-subtitle: How a Digital Editing Software disrupted the Physical Cut and Paste Method
 header-position: center
 ---
 
@@ -20,7 +20,7 @@ A quote from the book No-Budget Feature Filmmaking in the Digital Era by Adam Ni
 
 
 {% include images/figure-wrap.html
-  image-path="images/books-britannica.jpeg"
+  image-path="Fotothek_df_pk_0000165_012.jpg"
   image-position="right"
   image-width="46%"
 %}
