@@ -34,7 +34,11 @@ People’s reactions to digital editing were mixed; they scaled from skepticism 
 
 In an interview between Walter Murch and Anne V. Coates, they were talking about the transition between physical film and digital film. They were talking about how whenever new technology comes out, people get high on the potential of it and overuse it in their filmmaking. The example they used was how MTV started the trend of fast cuts in editing. Now something that is taught is you can stay on a scene for more than 8 seconds, which is why in conversations between two people it always cuts back and forth between the two people. The two end up talking about it depending on who’s editing because they both believe that their editing style hasn’t changed since the switch from physical to digital editing.
 
-
+{% include images/figure-wrap.html
+  image-path="/assets/images/waltercottes.jpg"
+  image-position="center"
+  image-width="46%"
+%}
 
 ## Where are we heading?
 
