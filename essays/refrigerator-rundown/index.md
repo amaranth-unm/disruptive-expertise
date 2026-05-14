@@ -35,11 +35,11 @@ Initially, iceboxes were used solely for the transportation and storage of dairy
 
 Refrigeration began with loud models that would cost a pretty penny to purchase and maintain, such as the 1913 Domelre. In 1927, the introduction of the GE Monitor Top helped make refrigeration more accessible. It featured a sealed system that required less professional maintenance, but used toxic refrigerants. Around the 1930s and 40s, the design shifted from external top-mounted compressors to ‘Flat-Top’ units that were able to be integrated directly into kitchen cabinetry. This final step of evolution finally made the icebox obsolete. 
 
-{% include typography/pullquote.html text="\"Imagine a world in which every single human being can freely share in the sum of all human knowledge. That's what we're doing.\" — Jimmy Wales, Wikipedia co-founder" %}
-
 ## Fridges Kill
 
-Ward Cunningham had invented the "wiki" in 1995—a website that any visitor could edit directly, with changes appearing instantly. The concept was designed for software developers sharing documentation. When Larry Sanger suggested in January 2001 that Nupedia try a wiki as a "feeder" system for rough drafts, Wales agreed. Within days the wiki had more activity than Nupedia had seen in months.
+Early refrigeration, however, was often deadly. To create the iconic chill that would last longer than ice would, manufacturers would us hazardous gases such as ammonia, sulfur dioxide, and methyl chloride. Ammonia was corrive and highly flammable, while methyl chloride caused a ‘rash of deaths’ in the 1920s when it leaked silently into homes. 
+
+{% include typography/pullquote.html text="\"Firemen carried several tenants from upper floors of a four-story building at Eighteenth and Main streets Tuesday when ammonia fumes, escaping from an ice machine in the cellar, entered corridors and apartments. A valve in a machine that supplies refrigeration in the butcher shop of John Stegner, first floor of the building, blew off shortly before 10 a.m., causing the fumes to escape.\" — Cinccinati Post, June 1920" %}
 
 The key insight was almost counterintuitive: the *lack* of a barrier to entry was a feature, not a bug. Removing the need for credentials meant removing the bottleneck. Wikipedia's growth was explosive precisely because it was unguarded. Anyone with knowledge—formal or informal, credentialed or accumulated through decades of lived experience—could contribute.
 
