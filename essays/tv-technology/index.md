@@ -16,7 +16,13 @@ After World War II, commercial broadcasting experienced one of the fastest expan
 
 # The Moment of Rupture
 Television represented a major rupture in the history of information because it combined the visual immediacy of film with the real‑time transmission of radio. For the first time, people could witness political speeches, sports events, and breaking news as they unfolded, without ever leaving their living rooms. But television quickly became much more than a window to the world—it became a source of joy. Children gathered early on Saturday mornings to watch their favorite cartoons, while families ended their evenings laughing together at the jokes of iconic comedians who became household names. These shared moments created a warm, familiar atmosphere that turned the television into the emotional heart of the home. Beyond informing the public, TV brought entertainment, laughter, and a sense of togetherness to millions, proving that its power was not only in what it showed, but in how it made people feel.
-
+{% include images/figure-wrap.html
+  image-path="images/Four_old_tube.jpg"
+  image-position="right"
+  image-width="46%"
+  caption="Four old tube television sets"
+  text=britannica_text
+%}
 # This created both excitement and anxiety.
 
 # Democratize access to information
