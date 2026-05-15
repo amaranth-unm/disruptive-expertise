@@ -22,18 +22,24 @@ All in all, the refrigerator changed the world even if it was considered scary w
 
 ## No More Ice Box
 
-{% include images/figure-wrap.html
-  image-path="images/icebox.png"
-  image-position="center"
-  image-width="46%"
-  caption="The Ice Box was designed to keep food cool with ice being insulated in metal containers."
-%}
+{% capture icebox_text %}
 
 Before refrigerators were invented, people had to figure out how to keep their food cold and safe. Ice boxes, which were small wooden cabinets cooled by natural ice that was harvested from local lakes or ponds, were the route to go. People could store small amounts of food that would be kept cold until it was used. They were often unsanitary, would flood from melting ice, and were difficult to maintain due to not being able to keep a low temperature. Ice houses were built in order to keep up with the mass amount of ice needed in the hot summers of Maryland, Pennsylvania, and Virgina. 
 
 Initially, iceboxes were used solely for the transportation and storage of dairy products only. Once people discovered how much produce and other products benefited from being stored in cool areas, it became standard practice. 
 
 Refrigeration began with loud models that would cost a pretty penny to purchase and maintain, such as the 1913 Domelre. In 1927, the introduction of the GE Monitor Top helped make refrigeration more accessible. It featured a sealed system that required less professional maintenance, but used toxic refrigerants. Around the 1930s and 40s, the design shifted from external top-mounted compressors to ‘Flat-Top’ units that were able to be integrated directly into kitchen cabinetry. This final step of evolution finally made the icebox obsolete. 
+
+{% endcapture %}
+
+{% include images/figure-wrap.html
+  image-path="images/icebox.png"
+  image-position="right"
+  image-width="46%"
+  caption="The Ice Box was designed to keep food cool with ice being insulated in metal containers."
+  text=icebox_text
+%}
+
 
 ## Fridges Kill
 
