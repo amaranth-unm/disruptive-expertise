@@ -35,7 +35,7 @@ Example: Programs like *The Electric Company* helped thousands of children impro
 Television challenged newspapers and radio as a newcomer that asked no permission to change the rules. Its blend of image and sound made the news seem more real, more urgent, and more vivid. Newspapers could no longer compete with the immediacy of watching an event as it unfolded; radio could no longer compete with the emotional power of an image.
 Example: While a newspaper described a fire, television showed the flames in real time.
 
-# Evolution of Television After the Initial Rupture
+# After the Initial Rupture
 The possibility that millions of people could watch the same event simultaneously was something entirely new in the history of media. Television not only transformed public communication but also everyday life. As media historian Lynn Spigel notes, television “reorganized the rhythms of domestic life and the structure of public communication” (*Make Room for TV*, 1992). In addition to watching live broadcasts, families in the 1980s and 90s further expanded their television experience with the advent of the VCR (Video Cassette Recorder), which allowed them to watch movies on VHS at home—pausing, rewinding, and choosing what to watch without being beholden to network schedules. Added to this was the rise of video game consoles—such as Nintendo, Sega, and later PlayStation—which transformed the television set into a multifunctional entertainment hub. Thus, television ceased to be merely a broadcast medium, becoming instead the technological centerpiece of the home, integrating cinema, video games, and programming into a single device.
 
 {% include images/figure-wrap.html
