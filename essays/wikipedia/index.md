@@ -1,9 +1,9 @@
 ---
-title: "Wikipedia and the Wisdom of the Crowd"
+title: The Rise of Television Technology
 layout: scrollstory
-header-image: images/jimmy-wales-imac.jpg
+header-image: old-tv-1930.jpg.jpg
 thumbnail: images/jimmy-wales-imac.jpg
-summary: When Wikipedia launched in 2001, it didn't just build a new encyclopedia—it challenged the centuries-old assumption that reliable knowledge requires certified experts to produce it.
+summary: A look at how television transformed communication, culture, and public trust in information.
 header-title: Wikipedia and the Wisdom of the Crowd
 header-subtitle: How a Free Encyclopedia Disrupted Expertise
 header-position: center
