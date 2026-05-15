@@ -101,16 +101,13 @@ Some early predictions came true, such as concerns about political influence and
 # Connection to AI
 The debates surrounding artificial intelligence today echo the very same hopes and fears that surrounded the rise of television in the mid‑20th century. Television shifted public trust, diverting it away from print journalists and toward charismatic on-screen personalities. AI may be driving a similar shift today, in which algorithmic results compete with human expertise. In those years, television was not merely a new device—it was a profound shift in how humanity communicated, learned, and understood the world. Some welcomed it as a tool of progress; others feared it would disrupt traditions, reshape society, or erode established norms. Yet television ultimately became a unifying force, expanding education, strengthening civic awareness, and connecting families across the nation. Today, artificial intelligence stands at a similar crossroads. Just as television once challenged us to rethink the boundaries of communication, AI challenges us to rethink the boundaries of knowledge itself. And just as we did then, we must meet this moment not with fear, but with wisdom, responsibility, and the confidence that innovation—when guided by human values—can elevate our society and open doors to a future worthy of our highest aspirations.
 
-Similarities
+# Similarities
 Both technologies were seen as revolutionary and potentially dangerous.
-
 Both raised concerns about misinformation, manipulation, and the impact on young people.
-
 Both promised to expand access to knowledge and reshape communication.
 
-What History Teaches Us
+# What History Teaches Us
 Studying the introduction of television shows that societies often respond to new technologies with a mix of fear and hope. Over time, people learn to adapt, regulate, and integrate these technologies into daily life.
-
 Television did not destroy society; it changed it.
 AI is likely to follow a similar pattern: disruptive, transformative, and deeply debated.
 
