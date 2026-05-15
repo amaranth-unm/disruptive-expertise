@@ -123,6 +123,7 @@ NASA. “Apollo 11 Mission Overview.” 2019.
 Putnam, Robert. Bowling Alone: The Collapse and Revival of American Community. Simon & Schuster, 2000.
 
 Spigel, Lynn. Make Room for TV: Television and the Family Ideal in Postwar America. University of Chicago Press, 1992.
+https://books.google.com/books?id=ydgDAAAAMBAJ&pg=PA120
 
 U.S. Census Bureau. “Historical Statistics of the United States: Households with Television Sets.” 2013.
 
