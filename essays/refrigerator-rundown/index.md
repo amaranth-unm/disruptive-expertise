@@ -43,11 +43,15 @@ Refrigeration began with loud models that would cost a pretty penny to purchase 
 
 ## Fridges Kill
 
-Early refrigeration, however, was often deadly. To create the iconic chill that would last longer than ice would, manufacturers would us hazardous gases such as ammonia, sulfur dioxide, and methyl chloride. Ammonia was corrive and highly flammable, while methyl chloride caused a ‘rash of deaths’ in the 1920s when it leaked silently into homes. 
+Early refrigeration, however, was often deadly. To create the iconic chill that would last longer than ice would, manufacturers would us hazardous gases such as ammonia, sulfur dioxide, and methyl chloride.  
 
 {% include typography/pullquote.html text="\"Firemen carried several tenants from upper floors of a four-story building at Eighteenth and Main streets Tuesday when ammonia fumes, escaping from an ice machine in the cellar, entered corridors and apartments. A valve in a machine that supplies refrigeration in the butcher shop of John Stegner, first floor of the building, blew off shortly before 10 a.m., causing the fumes to escape.\" — Cinccinati Post, June 1920" %}
 
+Ammonia was used in commercial settings, with the risks being highly corrosive and flammable. Firemen were required to use gas masks to enter buildings, and several accidents involved workers being overcome by fumes after the equipment failed.
 
+Methyl chloride caused a ‘rash of deaths’ in the 1920s when it leaked silently into homes. These chemicals was completely colorless and virtually odorless, which made leaks impossible for anyone to detect. This would often poison families while they slept. 
+
+Sulfur dioxide was popular in the earlier models, but it was toxic and corrosive to the lungs. There was a suffocating odor that served as a warning, but still remained a hazard if something leaked while families were sleeping. 
 
 {% include scrollybox/bg.html
   image-path="images/market-view.jpg"
