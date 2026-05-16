@@ -68,8 +68,6 @@ Butchers used to walk cattle out in the streets where they would have a certain 
 
 Housewives everywhere were now able to buy more food in bulk, and it would stay fresh for longer without the hassle of preserves or spending countless hours in the kitchen. Now, refrigerators have larger freezers, had more interior capacity, ice makers, and auto-defrosters.
 
-## Fridge-volution
-
 {% include images/jumbotron.html
   image-path="images/Fridge Evolution.png"
   height="85vh"
@@ -77,6 +75,8 @@ Housewives everywhere were now able to buy more food in bulk, and it would stay 
   box-align="left"
   text="This is an AI image of the evolution of the refrigerator, ranging from the Ice Box to the most modern version."
 %}
+
+## Fridge-volution
 
 Now that we have gone over the origins, let's talk about how much they have evolved over the decades. 
 
