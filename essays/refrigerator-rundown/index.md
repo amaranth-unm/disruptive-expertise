@@ -73,8 +73,6 @@ Housewives everywhere were now able to buy more food in bulk, and it would stay 
 
 ## Fridge-volution
 
-Now that we have gone over the origins, let's talk about how much they have evolved over the decades. 
-
 {% include images/jumbotron.html
   image-path="images/Fridge Evolution.png"
   height="85vh"
@@ -83,6 +81,7 @@ Now that we have gone over the origins, let's talk about how much they have evol
   text="This is an AI image of the evolution of the refrigerator, ranging from the Ice Box to the most modern version."
 %}
 
+Now that we have gone over the origins, let's talk about how much they have evolved over the decades. 
 
 From the ice box to our modern smart fridge, there has been a lot of growth between the many models that have since come out. Now that the refrigerator is a basic commodity, there aren't as many fears behind using one. Back then, there were so many dangers behind having one near your home.
 
