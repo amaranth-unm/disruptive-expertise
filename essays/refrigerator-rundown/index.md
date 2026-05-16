@@ -59,6 +59,7 @@ Sulfur dioxide was popular in the earlier models, but it was toxic and corrosive
   below-box-space="80vh"
   box-align="right"
   box-content="
+  
 ## Food Safety Takes a Step Forward
 
 Keeping food safe was now revolutionalized, making the old way obsolete. 
@@ -70,20 +71,6 @@ Housewives everywhere were now able to buy more food in bulk, and it would stay 
 The philosopher Yochai Benkler called this 'commons-based peer production,' arguing in a landmark 2002 *Yale Law Journal* article that it represented a genuinely new mode of knowledge production—neither market-based nor state-organized, but collaborative and distributed.
 "
 %}
-
-
-## The Critics Respond
-
-The backlash was immediate and, in some quarters, never stopped.
-
-Robert McHenry, a former editor-in-chief of the *Encyclopaedia Britannica*, published a widely-cited essay in 2004 called "The Faith-Based Encyclopedia." His argument was withering: Wikipedia's quality was not just unpredictable but *unknowable*. Because any article could be edited at any moment by anyone, a reader had no way of knowing whether what they were reading had been there for three years or three minutes. He compared using Wikipedia to leaving one's health in the hands of a randomly chosen passerby. A user "may or may not be informed, but is, in any case, not accountable and not qualifiable."
-
-{% include typography/pullquote.html text="\"The user who visits Wikipedia to learn about some subject, to confirm some piece of information, or to find a source for some assertion is rather in the position of a visitor to a public restroom. It may be obviously dirty, so that he knows to exercise great care, or it may seem fairly clean, yet still be contaminated in ways that are not immediately apparent.\" — Robert McHenry, 2004" %}
-
-Andrew Keen's *The Cult of the Amateur* (2007) raised the stakes further. Keen argued that Wikipedia was not democratizing knowledge but *destroying* it—replacing the careful, slow work of expertise with the instant, unreliable noise of crowd opinion. "The digital revolution's democratic ideology," he wrote, "is undermining cultural standards and belittling real knowledge."
-
-These critiques were not wrong, exactly. They were describing real risks. But they were also defending a model of expertise that had its own exclusions and blind spots—ones that Wikipedia's critics were often slow to acknowledge.
-
 
 ## Fridge-volution
 
@@ -107,9 +94,11 @@ His concern reflected something real: the disruption Wikipedia represented was n
 
 ## Connection to AI
 
-The debates about Wikipedia in the 2000s and 2010s sound strikingly familiar to debates about AI today.
+New technology is always considered scary at first, especially when there is a lot unknown about the pros and cons. 
 
 Is the output reliable? Who is responsible when it's wrong? Does it flatten nuance in ways that look like knowledge but aren't? Does it encode the biases of its creators without acknowledging them? Can we trust something that cannot tell us, in any meaningful sense, *why* it said what it said?
+
+Like AI, the refrigerator had several concerns about whether or not it was safe to use. 
 
 These are the right questions. And the Wikipedia case suggests they don't have clean answers.
 
