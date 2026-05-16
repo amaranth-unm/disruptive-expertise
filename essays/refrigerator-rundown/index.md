@@ -83,11 +83,10 @@ Now that we have gone over the origins, let's talk about how much they have evol
   text="This is an AI image of the evolution of the refrigerator, ranging from the Ice Box to the most modern version."
 %}
 
-The *Nature* study, led by journalist Jim Giles, asked subject-matter experts to evaluate matched articles from Wikipedia and Britannica without knowing which was which. The results were striking: Wikipedia had an average of four errors per article; Britannica had three. Both contained "serious errors," according to the reviewers. The gap in reliability was far smaller than the gap in cultural prestige.
 
-Britannica's response was furious. The company published a lengthy rebuttal disputing the methodology. But the study had landed a lasting blow to the assumption that formal editorial structures were necessary for reliable information. Tom Nichols, writing more than a decade later in *The Death of Expertise* (2017), worried that findings like these had given "ordinary citizens" permission to distrust expertise altogether—that the lesson taken from Wikipedia was not "crowd review can sometimes approximate expert review" but "experts aren't necessary."
+From the ice box to our modern smart fridge, there has been a lot of growth between the many models that have since come out. Now that the refrigerator is a basic commodity, there aren't as many fears behind using one. Back then, there were so many dangers behind having one near your home.
 
-His concern reflected something real: the disruption Wikipedia represented was not merely institutional. It was epistemological.
+
 
 ## Connection to AI
 
