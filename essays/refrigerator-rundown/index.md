@@ -68,7 +68,6 @@ Butchers used to walk cattle out in the streets where they would have a certain 
 
 Housewives everywhere were now able to buy more food in bulk, and it would stay fresh for longer without the hassle of preserves or spending countless hours in the kitchen. Now, refrigerators have larger freezers, had more interior capacity, ice makers, and auto-defrosters.
 
-The philosopher Yochai Benkler called this 'commons-based peer production,' arguing in a landmark 2002 *Yale Law Journal* article that it represented a genuinely new mode of knowledge production—neither market-based nor state-organized, but collaborative and distributed.
 "
 %}
 
