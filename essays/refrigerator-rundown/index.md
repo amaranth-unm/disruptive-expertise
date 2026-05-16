@@ -86,11 +86,11 @@ These critiques were not wrong, exactly. They were describing real risks. But th
 In December 2005, the science journal *Nature* published a brief but explosive study.
 
 {% include images/jumbotron.html
-  image-path="images/head-to-head.webp"
+  image-path="images/Fridge Evolution.png"
   height="85vh"
   background-position="center top"
   box-align="left"
-  text="In a blind comparison of 42 science articles, *Nature* found Wikipedia's error rate roughly comparable to Britannica's: 4 errors per article vs. 3. The finding sent shockwaves through both the encyclopedic establishment and the open-source community."
+  text="This is an AI image of the evolution of the refrigerator, ranging from the Ice Box to the most modern version."
 %}
 
 The *Nature* study, led by journalist Jim Giles, asked subject-matter experts to evaluate matched articles from Wikipedia and Britannica without knowing which was which. The results were striking: Wikipedia had an average of four errors per article; Britannica had three. Both contained "serious errors," according to the reviewers. The gap in reliability was far smaller than the gap in cultural prestige.
