@@ -59,6 +59,7 @@ Sulfur dioxide was popular in the earlier models, but it was toxic and corrosive
   below-box-space="80vh"
   box-align="right"
   box-content="
+%}
 
 ## Food Safety Takes a Step Forward
 
