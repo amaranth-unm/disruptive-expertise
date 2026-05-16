@@ -118,11 +118,13 @@ AI presents the same asymmetry at greater scale and higher speed. Understanding 
 
 This essay got assistance from NotebookLM and ChatGPT as a way to help make it more rounded and give images that help with the topic.
 
- NotebookLM was immensely helpful with finding several different articles and sources that were important for the research of this essay. I was able to sift through multiple links and find applicable information from this tool, which made the research more bearable.
+ NotebookLM was immensely helpful with finding several different articles and sources that were important for the research of this essay. I was able to sift through multiple links and find applicable information from this tool, which made the research more bearable. NotebookLM was also responsible for helping me come up with the bibliography in the proper format.
 
-AI was *not* a reliable source for specific claims, quotations, or bibliographic details. Every source cited here was verified through actual databases (JSTOR, Google Scholar, library catalogs) or the original texts. Several sources that an AI initially suggested turned out to have incorrect publication dates, wrong page numbers, or—in two cases—to not exist in the form described. AI is not a substitute for source verification; it is a starting point for research, not an endpoint.
+ChatGPT helped me formulate summaries, just as a point to jump off of. I was able to use it for a few of the photos as well, mostly to add some depth to this project. 
 
-The deeper limitation: AI flattened the historiographic debates. When I asked it to explain "the significance of Wikipedia," it gave a confident, balanced-sounding answer that missed exactly the tensions and contradictions that make the history interesting. Historians argue. They disagree. They revise. AI tends to synthesize and harmonize. The most important intellectual work in this essay—deciding what the evidence actually *means*—was mine to do.
+AI was not used for the overall essay, or the quotes used throughout the website. I verified all of the sources through my own research, that way I could know what I was writing was accurate. 
+
+AI also had a hard time giving an accurate explanation on the evolution of the refrigerator, mostly because it gave inncorrect details about how the fridge was made and the dangers that were behind it when they were first introduced. 
 
 ---
 
