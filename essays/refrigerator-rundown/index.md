@@ -47,9 +47,7 @@ Early refrigeration, however, was often deadly. To create the iconic chill that 
 
 {% include typography/pullquote.html text="\"Firemen carried several tenants from upper floors of a four-story building at Eighteenth and Main streets Tuesday when ammonia fumes, escaping from an ice machine in the cellar, entered corridors and apartments. A valve in a machine that supplies refrigeration in the butcher shop of John Stegner, first floor of the building, blew off shortly before 10 a.m., causing the fumes to escape.\" — Cinccinati Post, June 1920" %}
 
-The key insight was almost counterintuitive: the *lack* of a barrier to entry was a feature, not a bug. Removing the need for credentials meant removing the bottleneck. Wikipedia's growth was explosive precisely because it was unguarded. Anyone with knowledge—formal or informal, credentialed or accumulated through decades of lived experience—could contribute.
 
-This was not, at the time, considered a serious proposal for producing reliable knowledge. The experts said so, loudly.
 
 {% include scrollybox/bg.html
   image-path="images/market-view.jpg"
@@ -130,6 +128,18 @@ The deeper limitation: AI flattened the historiographic debates. When I asked it
 
 ## Bibliography
 
-Hautzinger, David. “How the Miracle of Refrigeration Changed Our Food System – and Chicago’s Role in Its Development .” WTTW Chicago. Accessed May 5, 2026. https://www.wttw.com/playlist/2024/07/11/frostbite-nicola-twilley.  
+Beuscher, Kristin. "Advertising from the icebox era." Pascack Press & Northern Valley Press, April 14, 2024.
 
+Dyer, Betsey Dexter, and Jonathan Brumberg-Kraus. "Cultures on Ice: Refrigeration and the Americanization of Immigrants in the First Half of the Twentieth Century."
 
+Hand, Greg. "Refrigeration Was A Wonderful Invention When It Wasn't Trying To Kill You." Cincinnati Magazine, April 4, 2023.
+
+LaRiccia, Dante. "Overview: Electricity Consumption: Culture, Gender and Power." Energy History Online, Yale University, 2025.
+
+Lederman, Noah. "Household Fridge | United States (1920s)." Anthropocene in Objects.
+
+Lloyd, Sarah Anne. "Refrigerators used to be toxic." History Facts, October 17, 2025.
+
+Mobley, Carol. "Electricity Makes Women Free." Postcard History, July 27, 2020.
+
+"The Artificial Chill: A Socio-Technical Analysis of the Early Domestic Refrigerator."
