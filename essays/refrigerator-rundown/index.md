@@ -92,6 +92,8 @@ New technology is always considered scary at first, especially when there is a l
 
 Like AI, the refrigerator had several concerns about whether or not it was safe to use. It got rid of jobs, like the people who would collect the natural ice for iceboxes, which is another concern that AI currently has. Daily life has also changed quite a bit since the introduction of these technologies, which is considered an advancement. The food industry and preservation changed drastically, and made millions of peoples lives easier from it. 
 
+While there were a lot of fears behind the fridge, we now use them daily. Who can say AI won't be the same in a few years time?
+
 ## How I Used AI for This Essay
 
 This essay got assistance from NotebookLM and ChatGPT as a way to help make it more rounded and give images that help with the topic.
