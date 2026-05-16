@@ -65,7 +65,7 @@ Keeping food safe was now revolutionalized, making the old way obsolete.
 
 Butchers used to walk cattle out in the streets where they would have a certain amount of time to sell their fresh cuts before they went bad. Now, there was a way to keep the meat safe for consumption without the rush of getting rid of it.
 
-This is sometimes called the 'bazaar' model, as opposed to the 'cathedral' model of traditional scholarly publishing. The cathedral is designed by architects and built according to a plan. The bazaar is chaotic, self-organizing, and—against all expectations—often works.
+Housewives everywhere were now able to buy more food in bulk, and it would stay fresh for longer without the hassle of preserves or spending countless hours in the kitchen. Now, refrigerators have larger freezers, had more interior capacity, ice makers, and auto-defrosters.
 
 The philosopher Yochai Benkler called this 'commons-based peer production,' arguing in a landmark 2002 *Yale Law Journal* article that it represented a genuinely new mode of knowledge production—neither market-based nor state-organized, but collaborative and distributed.
 "
