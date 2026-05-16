@@ -1,8 +1,8 @@
 ---
-title: Disruptive Expertise
+title: Radio Broadcasting
 layout: base
 header-image: "/assets/images/book-to-network.png"
-header-title: Disruptive Expertise
+header-title: Radio Broadcasting
 header-subtitle: When technology questions authority
 header-position: 35% center
 ---
