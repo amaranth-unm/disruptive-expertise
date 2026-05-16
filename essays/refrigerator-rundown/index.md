@@ -61,9 +61,9 @@ Sulfur dioxide was popular in the earlier models, but it was toxic and corrosive
   box-content="
 ## Food Safety Takes a Step Forward
 
-Traditional encyclopedias assumed that reliable knowledge flows *downward*: from credentialed experts to the reading public.
+Keeping food safe was now revolutionalized, making the old way obsolete. 
 
-Wikipedia inverted this. It assumed knowledge could flow *upward* and *sideways*—from anyone who knew something to everyone who needed it. Errors would be caught not by editors in advance, but by readers and other contributors over time.
+Butchers used to walk cattle out in the streets where they would have a certain amount of time to sell their fresh cuts before they went bad. Now, there was a way to keep the meat safe for consumption without the rush of getting rid of it.
 
 This is sometimes called the 'bazaar' model, as opposed to the 'cathedral' model of traditional scholarly publishing. The cathedral is designed by architects and built according to a plan. The bazaar is chaotic, self-organizing, and—against all expectations—often works.
 
