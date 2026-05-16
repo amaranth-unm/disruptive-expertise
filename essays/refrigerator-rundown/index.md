@@ -59,7 +59,7 @@ Sulfur dioxide was popular in the earlier models, but it was toxic and corrosive
   below-box-space="80vh"
   box-align="right"
   box-content="
-  
+
 ## Food Safety Takes a Step Forward
 
 Keeping food safe was now revolutionalized, making the old way obsolete. 
@@ -90,22 +90,11 @@ Britannica's response was furious. The company published a lengthy rebuttal disp
 
 His concern reflected something real: the disruption Wikipedia represented was not merely institutional. It was epistemological.
 
-
-
 ## Connection to AI
 
 New technology is always considered scary at first, especially when there is a lot unknown about the pros and cons. 
 
-Is the output reliable? Who is responsible when it's wrong? Does it flatten nuance in ways that look like knowledge but aren't? Does it encode the biases of its creators without acknowledging them? Can we trust something that cannot tell us, in any meaningful sense, *why* it said what it said?
-
-Like AI, the refrigerator had several concerns about whether or not it was safe to use. 
-
-These are the right questions. And the Wikipedia case suggests they don't have clean answers.
-
-What Wikipedia showed is that disruptions to expert authority are not simply liberating or simply dangerous—they are both, and the balance shifts depending on what you're looking for, who you are, and what you already know. A Wikipedia article on a well-documented scientific topic is often genuinely reliable. An article on a contested political event, or a figure from a marginalized community, or a topic outside the dominant culture of its editors, is often not.
-
-AI presents the same asymmetry at greater scale and higher speed. Understanding what Wikipedia got right, what it got wrong, and *why*—not as a story of technology, but as a story of social power, epistemic trust, and the politics of knowledge—is essential preparation for navigating what comes next.
-
+Like AI, the refrigerator had several concerns about whether or not it was safe to use. It got rid of jobs, like the people who would collect the natural ice for iceboxes, which is another concern that AI currently has. Daily life has also changed quite a bit since the introduction of these technologies, which is considered an advancement. The food industry and preservation changed drastically, and made millions of peoples lives easier from it. 
 
 ## How I Used AI for This Essay
 
