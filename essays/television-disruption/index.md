@@ -49,8 +49,6 @@ The reactions to television's rise were immediate and sharply divided. Enthusias
 
 Critics were less sanguine. The Federal Communications Commission commissioner Newton Minow delivered what became one of the most famous speeches in broadcasting history in 1961, telling the assembled executives of the television industry that they had created a "vast wasteland"—a medium of enormous potential that was being used primarily to sell products and sedate audiences.
 
-Minow warned: "When television is bad, nothing is worse. I invite each of you to sit down in front of your own television set when your station goes on the air and stay there for a day without a book, without a profit and loss sheet or a rating book to distract you. Keep your eyes glued to that set until the station signs off. I can assure you that what you will observe is a vast wasteland."
-
 {% include typography/pullquote.html text="\"When television is bad, nothing is worse. I invite each of you to sit down in front of your own television set when your station goes on the air and stay there for a day without a book, without a profit and loss sheet or a rating book to distract you. Keep your eyes glued to that set until the station signs off. I can assure you that what you will observe is a vast wasteland.\" — Newton Minow, 1961" %}
 
 Academics worried about something deeper than bad programming. Sociologists noted that television was replacing the local expert—the family doctor, the community pastor, the school teacher—with a national one. Why trust your own physician when you could watch a confident doctor on a talk show? Why form your own political opinion when a trusted anchor could form it for you?
