@@ -53,37 +53,43 @@ Academics worried about something deeper than bad programming. Sociologists note
 
 ## What Actually Happened
 
-Television did reshape American society, but in ways its critics both predicted and failed to anticipate.
+The predictions made about television in the 1940s and 1950s were remarkably accurate in some ways and completely wrong in others.
 
-The predictions about entertainment crowding out substance proved largely correct. News divisions, once treated as public-service obligations, became profit centers. The line between journalism and entertainment blurred steadily. By the 1980s and 1990s, tabloid news programs, celebrity trials broadcast gavel-to-gavel, and the rise of cable news had transformed the information landscape in exactly the ways Postman and others had feared.
+Critics predicted that television would dumb down public discourse — and they were right. News divisions that once operated as public-service obligations became profit centers chasing ratings. By the 1980s and 1990s, tabloid news programs, celebrity trials broadcast gavel-to-gavel, and the rise of cable news had transformed journalism in exactly the ways Postman and others had feared. The line between news and entertainment did blur, and it never recovered.
 
-But television also created new kinds of expertise and new kinds of accountability. The civil rights movement used television to make visible what had been deliberately hidden. The Vietnam War became the first televised war—and the footage that came back helped turn public opinion against it. Watergate hearings, broadcast live, demonstrated that television could hold power accountable as well as inflate it.
+But critics failed to predict television's power as a tool of accountability. The civil rights movement used television to make visible what had been deliberately hidden — the images of peaceful protesters being beaten in Birmingham in 1963 shocked a national audience that had been largely insulated from the realities of segregation. The Vietnam War became the first televised war, and the footage that came back — soldiers dying, villages burning — helped turn public opinion against the conflict in ways that no newspaper could have achieved alone. Watergate hearings, broadcast live in 1973, demonstrated that television could hold even a president accountable.
 
-The disruption to employment was equally dramatic and largely overlooked. Television didn't just change who was trusted—it wiped out entire professions. Vaudeville performers, radio drama actors, local variety entertainers, and thousands of theater workers found their livelihoods eliminated as audiences migrated to the screen. At the same time, it created entirely new categories of work—news anchors, camera operators, television writers, studio technicians—that had not existed a generation earlier. Like the industrial revolution before it, television destroyed some forms of expertise and manufactured others.
+For ordinary viewers, the impact was equally profound. Audiences that had previously relied on local authorities — the family doctor, the community pastor, the school teacher — now had access to national figures speaking directly into their living rooms every night. This didn't simply replace local expertise; it created a new kind of skepticism. If the president could lie on television, if news anchors could be wrong, if experts could contradict each other on the same talk show — then who could be trusted? Television didn't just disrupt expertise. It taught Americans to distrust it.
+
+The disruption to employment was dramatic and largely overlooked. Vaudeville performers, radio drama actors, local variety entertainers, and thousands of theater workers found their livelihoods eliminated as audiences migrated to the screen. At the same time, television created entirely new professions — news anchors, camera operators, television writers, studio technicians, lighting directors — that had not existed a generation earlier. Like the industrial revolution before it, television destroyed some forms of work and manufactured others, leaving the people caught in between with few options and little warning.
 
 ## Connection to AI
 
-The debates about television in the 1950s and 1960s sound strikingly familiar to debates about artificial intelligence today.
+The debates about television in the 1950s and 1960s sound strikingly familiar to debates about artificial intelligence today — but the parallel is more specific than it first appears.
 
-Does the medium reward the confident over the accurate? Does it bypass the slow, credentialing institutions that societies built to verify knowledge? Does it create new forms of authority that feel trustworthy without being verifiable? Does it eliminate jobs faster than it creates them?
+Television disrupted a particular kind of authority: the authority of the credentialed local expert. Before television, you trusted your doctor because you knew him, your pastor because he knew your family, your teacher because she was the most educated person in the room. Television replaced that personal, accountable relationship with a distant, unaccountable one. The man on the screen looked trustworthy. He spoke confidently. But you had no way to verify his credentials, challenge his claims, or hold him responsible if he was wrong.
 
-Television answered all of these questions with a complicated "yes and no." It was simultaneously a tool of propaganda and a tool of accountability. It elevated charlatans and exposed corruption. It dumbed things down and brought complex events into living rooms that would never have encountered them otherwise.
+AI disrupts the same kind of authority, but at a far greater scale and speed. When an AI system produces a confident, fluent, well-structured answer to a medical question, a legal question, or a historical question, it mimics the surface features of expertise without any of the accountability structures that make expertise trustworthy. There is no license to revoke. There is no malpractice suit to file. There is no editor to complain to.
 
-AI presents the same asymmetry at greater scale and higher speed. A system that can produce confident, fluent, authoritative-sounding text on any subject is a television studio and a printing press and a credentialing committee all at once—with no editorial standards department, no FCC, and no off switch.
+Television at least had the FCC, network standards departments, and the occasional congressional hearing to provide some check on what was broadcast. AI currently operates with far fewer institutional constraints. The question television forced Americans to ask — can I trust what this screen is telling me, and who is responsible if it's wrong — is the same question AI is forcing us to ask today. We are no better prepared to answer it now than we were then.
 
-Understanding what television got right, what it got wrong, and why—not as a story of technology, but as a story of authority, attention, and institutional trust—is essential preparation for navigating what comes next.
+What television ultimately showed is that the disruption of expertise is not simply liberating or simply dangerous — it is both simultaneously, and the balance depends entirely on who is using the technology, for what purpose, and with what accountability structures in place. That lesson is essential preparation for navigating what AI will do next.
 
 ## How I Used AI for This Essay
 
 This essay was researched and written with the assistance of Claude, an AI assistant made by Anthropic, and NotebookLM, an AI research tool made by Google.
 
-Claude was useful for generating an initial structure, identifying relevant historical examples, and drafting transitions between sections. It surfaced names, dates, and connections quickly and helped organize a large amount of material into a coherent argument.
+Claude was used to generate an initial structure, identify relevant historical examples, and draft transitions between sections. It helped organize a large amount of material quickly and suggested connections between historical events that would have taken much longer to find through traditional research alone.
 
 NotebookLM was used to upload and analyze several of the sources in the bibliography, helping to identify key themes and relevant passages across multiple texts simultaneously. It was particularly useful for cross-referencing how different authors approached the question of television's effect on public trust and expertise.
 
-AI was not a reliable substitute for source verification. AI tends to present historical claims with more certainty than the evidence sometimes warrants, and it can flatten the genuine disagreements among historians into smooth, confident summaries. The most important decisions in this essay—what to include, what angle to take, what the evidence actually means—required judgment that the AI could prompt but not supply.
+However, AI came with significant limitations that shaped the research process in important ways. First, AI tends to present historical claims with more certainty than the evidence warrants. When asked about specific audience reactions to television in the 1950s, Claude produced confident summaries that flattened the genuine complexity and disagreement in the historical record. Historians argue. They contradict each other. AI tends to synthesize and harmonize, which can produce writing that sounds authoritative but misses the tensions that make history meaningful.
 
-The deeper limitation is one this essay is itself about: AI is very good at sounding authoritative. That is exactly the problem television posed, and it is the problem worth watching.
+Second, AI cannot replace source verification. Every specific claim in this essay — the statistics about television adoption rates, the Minow quote, the details about the Kennedy-Nixon debate — required verification against actual historical sources. AI suggested several sources that turned out to have incorrect publication details or that did not say what the AI claimed they said.
+
+Third, and most importantly, AI cannot make the interpretive judgments that define good historical writing. Deciding what the evidence actually means, which details matter, and how to connect a 1960s media debate to contemporary questions about AI — those decisions required human judgment that no AI tool could supply. The AI could generate a comparison between television and AI. It took a human reader to decide whether that comparison was actually illuminating or just superficially clever.
+
+The deeper limitation is one this essay is itself about: AI is very good at sounding authoritative. That is exactly the problem television posed sixty years ago, and it is the problem most worth watching today.
 
 ---
 
