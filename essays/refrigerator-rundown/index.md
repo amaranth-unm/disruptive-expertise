@@ -83,7 +83,7 @@ These critiques were not wrong, exactly. They were describing real risks. But th
 
 ## Fridge-volution
 
-In December 2005, the science journal *Nature* published a brief but explosive study.
+Now that we have gone over the origins, let's talk about how much they have evolved over the decades. 
 
 {% include images/jumbotron.html
   image-path="images/Fridge Evolution.png"
