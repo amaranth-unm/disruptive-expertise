@@ -54,7 +54,7 @@ Methyl chloride caused a ‘rash of deaths’ in the 1920s when it leaked silent
 Sulfur dioxide was popular in the earlier models, but it was toxic and corrosive to the lungs. There was a suffocating odor that served as a warning, but still remained a hazard if something leaked while families were sleeping. 
 
 {% include scrollybox/bg.html
-  image-path="fridge photo.png"
+  image-path="fridge.png"
   above-box-space="90vh"
   below-box-space="80vh"
   box-align="right"
