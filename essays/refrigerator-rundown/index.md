@@ -138,7 +138,7 @@ Hand, Greg. "Refrigeration Was A Wonderful Invention When It Wasn't Trying To Ki
 
 LaRiccia, Dante. "Overview: Electricity Consumption: Culture, Gender and Power." Energy History Online, Yale University, 2025.
 
-Lederman, Noah. "Household Fridge | United States (1920s)." Anthropocene in Objects.
+Lederman, Noah. "Household Fridge United States (1920s)." Anthropocene in Objects.
 
 Lloyd, Sarah Anne. "Refrigerators used to be toxic." History Facts, October 17, 2025.
 
