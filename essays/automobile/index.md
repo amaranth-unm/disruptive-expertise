@@ -67,7 +67,7 @@ This wasn't just a swap of vehicles; it was a functional displacement in a predi
 4.Heavy Freight: Motorized trucks finally supplanted the horse cart in the 1920s.
 
 
-# The Democratization of Technical Knowledge
+# The Rise of Technical Manuals
 
 As the automobile transitioned from an elite luxury to a mass-market commodity, the "tinkerer’s expertise" of the blacksmith became a bottleneck. The early "gentleman driver" had relied on mechanically minded tradesmen who used intuition to eke out repairs. But as millions of Fords hit the road, the need for a new class of "expert" became urgent.
 
@@ -141,7 +141,7 @@ This essay was researched and written with the assistance of both NotebookLM, an
 
 AI was useful for: generating an initial outline, suggesting relevant historical figures and events, and helping provide specific verbage when needed. I used it as a starting point and finishing point — a well-read research assistant who could quickly surface names, dates, connections, and other relevent topics.
 
-AI was *not* a reliable source for specific claims, quotations, or bibliographic details. Every source cited here was verified through actual databases (JSTOR, Google Scholar, library catalogs) or the original texts. AI is not a substitute for source verification; it is a starting point for research, not an endpoint.
+AI was not a reliable source for specific claims, quotations, or bibliographic details. Every source cited here was verified through actual databases (JSTOR, Google Scholar, library catalogs) or the original texts. AI is not a substitute for source verification; it is a starting point for research, not an endpoint.
 
 The deeper limitation: AI flattened the historiographic debates. It gave many confident, balanced-sounding answers that missed exactly the tensions and contradictions that make history interesting. Historians argue. They disagree. They revise. AI tends to synthesize and harmonize. The most important intellectual work in this essay (deciding what the evidence actually means) was mine to do. The AI, especially ChatGPT, was also bad at interpreting my intentions with the specific questions that I was asking. I would often as for a particular verbage and it would give me a completely different topic. Only many further prompts would render what exactly I wanted.
 
