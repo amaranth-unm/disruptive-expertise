@@ -91,7 +91,7 @@ The release of Photoshop marked the beginning of a cultural shift in which image
   above-box-space="80vh"
   below-box-space="80vh"
   box-align="left"
-  box-content="
+  box-content="Artificial intelligence is changing how people create, edit, and trust digital images."
 %}
 ## How I Used AI for This Essay
 
