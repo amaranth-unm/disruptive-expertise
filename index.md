@@ -17,6 +17,7 @@ These essays, written by students in HIST 300 at the University of New Mexico, e
 The writing here was researched and produced with AI assistance, and documents that process honestly. History doesn't give us simple answers about technology. But it helps us ask better questions.
 
 
+
 {% assign all_pages = site.pages %}
 {% assign cards = all_pages | where_exp: "p", "p.path contains 'essays/'" | where_exp: "p", "p.path != 'essays/index.md'" %}
 
