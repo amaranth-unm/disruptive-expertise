@@ -92,7 +92,7 @@ The release of Photoshop marked the beginning of a cultural shift in which image
   below-box-space="80vh"
   box-align="left"
   box-content="
-
+%}
 ## How I Used AI for This Essay
 
 This essay was researched and written with the assistance of OpenAI and NotebookLM.
