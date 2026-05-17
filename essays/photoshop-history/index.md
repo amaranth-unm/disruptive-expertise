@@ -113,35 +113,30 @@ Adobe Communications Team. "Photoshop: Changing Your Photo, Changing an Industry
 
 Batley, Abigail, and Richard Glithro. "Exploring the Synergy of AI Generative Fill in Photoshop and the Creative Design Process Utilising Informal Learning." 26th International Conference on Engineering and Product Design Education, 5-6 Sept. 2024.
 
-Berry, Ellie. "Chapter 2: The Politics | Representation and National Geographic." Ellie Berry, 14 May 2020.
+Berry, Ellie. "Chapter 2: The Politics Representation and National Geographic." Ellie Berry, 14 May 2020.
 
 Campbell, David. The InTegrITy of The Image: Current Practices and Accepted Standards Relating to the Manipulation of Still Images in Photojournalism and Documentary Photography. World Press Photo Academy, Nov. 2014.
 
 Clipping World. "History of Photoshop: Evolution, Origins & Version Timeline." Clipping World, 1 Feb. 2026.
 
 Evans, Mathew D., et al. "Using Creativity and Imagination to Understand our Algorithmic World: a Conversation with Dr. Ed Finn." TechTrends, 31 May 2019, https://doi.org/10.1007/s11528-019-00404-3
-.
 
 Gawman, Paul. "From Photoshop to Generative AI: The Evolution of Image Manipulation." Paul Gawman, 2025.
 
 Gupta, Vipin. "Deepfake and the Crisis of Trust in Digital Public Spheres." International Journal of Social Science Research, vol. 2, no. 2, Mar.-Apr. 2025, pp. 329-40.
 
 Jiang, Harry H., et al. "How Professional Visual Artists are Negotiating Generative AI in the Workplace." Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems, 13-17 Apr. 2026, https://doi.org/10.1145/3772363.3799003
-.
 
 Karthikeyan, S., and Anindita Roy. "Digital Trust in the Age of Deepfakes and Synthetic Media." Journal of Cyber Risk and Digital Trust, vol. 1, no. 2, May-Aug. 2025, pp. 43-49.
 
 Lind, Douglas M. "Photo Manipulation and its Effect on Future Credibility of Documentary Photojournalism." Master's thesis, Utah State University, May 1993.
 
 Parsons, Andy. "Authenticity in the Age of AI: Growing Content Credentials Momentum Across Social Media Platforms, AI Companies and Rising Consumer Awareness." The Adobe Blog, 18 Sept. 2024, https://blog.adobe.com
-.
 
 PRO EDU. "The Evolution of Photoshop: From Basic Editing to AI Integration - A Visual Revolution." PRO EDU Blog, 22 Nov. 2024.
 
 Smith, Andrew, and James Hutson. "Satirical Deepfakes, Surreal Dreamscapes & Nostalgic Pixels: The Rapid Evolution and Cultural Commentary of AI-Aesthetics." ISAR Journal of Arts, Humanities and Social Sciences, vol. 2, no. 9, Sept. 2024, pp. 31-43.
 
 Swift, Ian P., and Debaleena Chattopadhyay. "A Value-Oriented Investigation of Photoshop's Generative Fill." arXiv, last revised 6 May 2024, https://doi.org/10.48550/arXiv.2404.17781
-.
 
 Zhou, ShengDong, et al. "The Impact of Artificial Intelligence on the Evolution of Graphic Design: Current Practices and Challenges." Premier Journal of Science, vol. 14, 31 Oct. 2025, https://doi.org/10.70389/PJS.100151
-.
