@@ -92,21 +92,6 @@ The release of Photoshop marked the beginning of a cultural shift in which image
   below-box-space="80vh"
   box-align="left"
   box-content="
-## Deeper Connection to AI
-
-Adrian Johns demonstrated in *The Nature of the Book* (1998) that the authority of printed texts was not inherent—it had to be constructed. Early print culture was chaotic, filled with forgeries, unauthorized editions, and unreliable reproductions. Trust in the printed word emerged slowly, through booksellers' reputations, readers' networks, and institutional endorsements.
-
-Wikipedia compressed that process dramatically, and made it visible. The negotiations over what counted as reliable knowledge—which had always happened, but usually behind institutional walls—now happened in public, in edit histories, on talk pages, in deletion debates.
-
-This is what made Wikipedia historically significant, and what makes it relevant to debates about AI today: it forced the question of *how we know what we know* into plain view. The answer was never simply 'experts said so.' It was always more complicated. Wikipedia just made the complication impossible to ignore.
-"
-%}
-
-Neil Postman warned in *Amusing Ourselves to Death* (1985) that every new medium changes not just what we communicate but how we think about what is worth communicating. Wikipedia changed the medium of reference knowledge—and in doing so, it changed what questions we ask about knowledge itself.
-
-
-## Connection to AI
-
 
 ## How I Used AI for This Essay
 
