@@ -80,7 +80,7 @@ For decades, a bizarre 'Authority Gap' existed: fans at home could see a mistake
 In December 1986, the NFL finally launched its own version of a 'Nature study', a formal test of the replay system as a tool for justice. 
 
 {% include images/jumbotron.html
-  image-path="images/army-player.jpeg"
+  image-path="images/tackle.webp"
   height="85vh"
   background-position="center top"
   box-align="left"
