@@ -46,6 +46,14 @@ The introduction of these machines caused significant anxiety. Business owners r
 
 Mechanical calculators did not eliminate office jobs. Instead, they transformed the nature of administrative work. The role of the human computer shifted from performing calculations to operating the machinery. This technological shift created entirely new employment sectors, particularly for women who were frequently hired as specialized Comptometer operators. Because calculation became faster and cheaper, the overall demand for data processing in business actually expanded.
 
+{% include images/jumbotron.html
+  image-path="images/early-math-calculator-with-handle-bettmann.jpg"
+  height="85vh"
+  background-position="center top"
+  box-align="left"
+  text="In a blind comparison of 42 science articles, *Nature* found Wikipedia's error rate roughly comparable to Britannica's: 4 errors per article vs. 3. The finding sent shockwaves through both the encyclopedic establishment and the open-source community."
+%}
+
 ## Connection to AI
 
 The anxiety surrounding the first mechanical calculators closely mirrors contemporary debates about artificial intelligence. AI is currently automating specific cognitive tasks, such as generating text and basic code, much like the Comptometer automated arithmetic. The historical fears of mass job displacement and intellectual decay are practically identical. The history of the mechanical calculator suggests that automating a task typically redefines the required human skill set rather than eliminating the need for human oversight altogether.
