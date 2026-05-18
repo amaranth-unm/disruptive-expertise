@@ -3,13 +3,13 @@ title: "Outcomputed: the Synthetic Genious"
 layout: scrollstory
 header-image: 1623-calculatingclock.jpg
 thumbnail: images/old-calculator.jpg
-summary: The rise of the early calculator did far more than automate sums, it liquidated the "human computer" as a professional class. By migrating the labor of the mind into a plastic box, the device stripped the mathematical virtuoso of their societal gatekeeping power, permanently devaluing the mental stamina once required to command the world’s data.
-header-title: Outcomputed: the Synthetic Genious
-header-subtitle: How a Free Encyclopedia Disrupted Expertise
+summary: The mechanical calculator was an early technological marvel that completely transformed the workplace. Before the late 19th century, businesses relied on human "computers" to manually process numbers. With the invention of machines like the Arithmometer and the Comptometer, complex math could suddenly be done accurately by pulling levers and pressing keys. While it was initially met with intense fear that humans would lose their cognitive skills or their jobs entirely, it ultimately paved the way for the modern data processing industry and reshaped office labor.
+header-title: Outcomputed - the Synthetic Genious
+header-subtitle: Automating Expertise
 header-position: center
 ---
 
-# Wikipedia and the Wisdom of the Crowd
+# Outcomputed: the Synthetic Genious
 
 
 
