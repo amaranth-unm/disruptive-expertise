@@ -25,26 +25,27 @@ Before these machines arrived, a "computer" wasn't a device on a desk. It was an
 
 ## The Technology
 
-Before the late 19th century, complex calculation was entirely manual. This changed with the commercialization of mechanical calculators like the Arithmometer and the Comptometer. These machines utilized intricate systems of gears, levers, and pinwheels to physically process addition, subtraction, multiplication, and division. They were large and expensive desktop devices, yet they allowed a single operator to perform arithmetic at unprecedented speeds.
+Before the late 19th century, complex mathematical calculation was an entirely manual, painstaking process reliant on human intellect, ink, and paper. This paradigm shifted dramatically with the commercialization of robust mechanical calculators, most notably Thomas de Colmar’s Arithmometer and Dorr Felt’s key-driven Comptometer. These innovative machines utilized intricate, interconnected internal systems of brass gears, stepped drums, levers, and pinwheels to physically execute the core arithmetic functions of addition, subtraction, multiplication, and division. Because they were entirely mechanical and relied on physical movement rather than electrical currents, they were large, heavy, and expensive desktop devices that required a significant capital investment from enterprises. Despite their high cost and physical bulk, they fundamentally revolutionized office environments by allowing a single trained operator to perform highly complex arithmetic at unprecedented, flawless speeds that no human could naturally match.
 
 {% include scrollybox/bg.html
-  image-path="images/old-calculator.jpg"
-  above-box-space="90vh"
+  image-path="images/printing-press.jpg"
+  above-box-space="80vh"
   below-box-space="80vh"
-  box-align="right"
-  box-content="
+  box-align="left"
+  box-content="%
+  %}
 
 ## The Moment of Rupture
 
-WThe technological rupture centered on the definition of a "computer." Originally, a computer was a human clerk whose sole profession was calculating numbers by hand. The mechanical calculator threatened to automate this cognitive labor. For the first time, society saw intellectual work being successfully outsourced to a machine.
+The historical technological rupture of this era centered fundamentally on the semantic and practical definition of the word "computer." Throughout the 18th and 19th centuries, a computer was not an object, but rather a job title—a human clerk whose sole, exhausting profession was calculating vast columns of numbers entirely by hand for banks, insurance companies, and government bureaus. The commercial introduction of the mechanical calculator threatened to completely automate this specific form of repetitive cognitive labor. For the very first time in human history, society witnessed high-level intellectual work, previously thought to be the exclusive domain of human intelligence, being successfully outsourced to a cold, unthinking assembly of metal parts. This blurred the line between human cognitive talent and mechanical automation, forcing a radical reconsideration of what tasks truly required a human mind.
 
 ## Contemporary Reactions
 
-The introduction of these machines caused significant anxiety. Business owners recognized the efficiency, but professional clerks viewed the technology as a direct threat to their employment. Critics argued that relying on a machine would degrade human intellectual capacity and cause society to lose the fundamental skill of mental arithmetic. Furthermore, early adoption was hindered by a lack of trust. Many managers initially forced human clerks to manually verify the mechanical results.
+The widespread introduction of these calculating machines into the white-collar workforce caused significant societal anxiety and professional friction. While forward-thinking business owners quickly recognized the immense potential for operational efficiency and reduced overhead, professional clerks and bookkeepers viewed the technology as a direct, existential threat to their livelihoods and social standing. Public critics and traditional educators also voiced harsh opposition, arguing that relying on a mechanical device would rapidly degrade human intellectual capacity, make the brain lazy, and cause society to permanently lose the fundamental, disciplined skill of mental arithmetic. Furthermore, early widespread adoption was severely hindered by a deep-seated lack of trust in mechanical accuracy. Skeptical managers and executives routinely forced human clerks to manually verify the mechanical results line by line, unwilling to believe a machine could be more accurate than a human.
 
 ## What Actually Happened
 
-Mechanical calculators did not eliminate office jobs. Instead, they transformed the nature of administrative work. The role of the human computer shifted from performing calculations to operating the machinery. This technological shift created entirely new employment sectors, particularly for women who were frequently hired as specialized Comptometer operators. Because calculation became faster and cheaper, the overall demand for data processing in business actually expanded.
+Contrary to the direst predictions of the era, mechanical calculators did not eliminate office jobs or create widespread unemployment in the administrative sector. Instead, they completely transformed the fundamental nature of administrative work, shifting the primary role of the human computer from performing tedious calculations to strategically operating and managing the new machinery. Rather than destroying the labor market, this technological shift created entirely new, specialized employment sectors, particularly for women, who entered the corporate office environment in unprecedented numbers to work as professional, certified Comptometer operators. Because calculation became significantly faster, cheaper, and less prone to human fatigue, the overall demand for data processing, financial auditing, and statistical analysis in the corporate world expanded exponentially, ultimately creating more office jobs than the machines replaced.
 
 {% include images/jumbotron.html
   image-path="images/early-math-calculator-with-handle-bettmann.jpg"
@@ -56,12 +57,12 @@ Mechanical calculators did not eliminate office jobs. Instead, they transformed 
 
 ## Connection to AI
 
-The anxiety surrounding the first mechanical calculators closely mirrors contemporary debates about artificial intelligence. AI is currently automating specific cognitive tasks, such as generating text and basic code, much like the Comptometer automated arithmetic. The historical fears of mass job displacement and intellectual decay are practically identical. The history of the mechanical calculator suggests that automating a task typically redefines the required human skill set rather than eliminating the need for human oversight altogether.
+The profound societal and professional anxiety surrounding the first mechanical calculators closely mirrors contemporary global debates about the rise of artificial intelligence. Today, generative AI is automating specific, highly specialized cognitive tasks, such as generating structured text, writing basic programming code, and analyzing data patterns, much like the Comptometer once automated complex arithmetic. The historical fears of mass white-collar job displacement, the erosion of human critical thinking, and general intellectual decay are practically identical across both eras. The history of the mechanical calculator strongly suggests that automating a cognitive task typically redefines and elevates the required human skill set—shifting it toward oversight, strategy, and curation—rather than eliminating the necessity for human judgment and final oversight altogether.
 
 
 ## How I Used AI for This Essay
 
-I used AI to help structure the narrative and identify the specific early models of calculating machines. It was particularly useful for outlining the shift in the administrative labor market during the late 19th century. I had to manually verify the historical reactions and the commercial timelines, as the AI initially conflated early prototypes with mass commercial availability. The AI served as a structural guide rather than a definitive historical source.
+I utilized artificial intelligence as a collaborative tool to help organize the structural narrative of this piece and to identify specific, historically accurate early models of calculating machinery. It proved to be a particularly useful brainstorming and drafting partner for outlining the macroeconomic shifts in the late 19th-century administrative labor market. However, because the AI initially suffered from historical hallucinations and conflated early, non-commercial laboratory prototypes with actual mass-market commercial availability, I had to manually verify the historical reactions, specific dates, and commercial timelines using academic texts. Ultimately, the AI served effectively as an advanced structural guide and organizational skeleton rather than a definitive, flawless historical source of truth.
 
 ---
 
