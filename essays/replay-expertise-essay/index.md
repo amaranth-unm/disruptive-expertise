@@ -29,7 +29,7 @@ But it was also slow and subject to the limits of biology. A referee could only 
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/nfl-refs.jpeg"
+  image-path="images/army_vs_navy.jpeg"
   image-position="right"
   image-width="46%"
   caption="Before 1963, the referee’s authority was absolute—a symbol of the 'Infallible Witness' model that the machine was about to disrupt."
