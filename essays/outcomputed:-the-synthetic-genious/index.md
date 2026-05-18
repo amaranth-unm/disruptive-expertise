@@ -1,8 +1,8 @@
 ---
 title: "Outcomputed: the Synthetic Genious"
 layout: scrollstory
-header-image: images/jimmy-wales-imac.jpg
-thumbnail: images/jimmy-wales-imac.jpg
+header-image: 1623-calculatingclock.jpg
+thumbnail: images/old-calculator.jpg
 summary: The rise of the early calculator did far more than automate sums, it liquidated the "human computer" as a professional class. By migrating the labor of the mind into a plastic box, the device stripped the mathematical virtuoso of their societal gatekeeping power, permanently devaluing the mental stamina once required to command the world’s data.
 header-title: Wikipedia and the Wisdom of the Crowd
 header-subtitle: How a Free Encyclopedia Disrupted Expertise
