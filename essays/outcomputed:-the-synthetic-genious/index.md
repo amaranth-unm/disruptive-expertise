@@ -19,6 +19,13 @@ Before these machines arrived, a "computer" wasn't a device on a desk. It was an
 
 Before the late 19th century, complex calculation was entirely manual. This changed with the commercialization of mechanical calculators like the Arithmometer and the Comptometer. These machines utilized intricate systems of gears, levers, and pinwheels to physically process addition, subtraction, multiplication, and division. They were large and expensive desktop devices, yet they allowed a single operator to perform arithmetic at unprecedented speeds.
 
+{% include scrollybox/bg.html
+  image-path="images/old-calculator.jpg"
+  above-box-space="90vh"
+  below-box-space="80vh"
+  box-align="right"
+  box-content="
+
 ## The Moment of Rupture
 
 WThe technological rupture centered on the definition of a "computer." Originally, a computer was a human clerk whose sole profession was calculating numbers by hand. The mechanical calculator threatened to automate this cognitive labor. For the first time, society saw intellectual work being successfully outsourced to a machine.
