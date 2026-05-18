@@ -39,14 +39,6 @@ Before the late 19th century, complex mathematical calculation was an entirely m
 
 The historical technological rupture of this era centered fundamentally on the semantic and practical definition of the word "computer." Throughout the 18th and 19th centuries, a computer was not an object, but rather a job title—a human clerk whose sole, exhausting profession was calculating vast columns of numbers entirely by hand for banks, insurance companies, and government bureaus. The commercial introduction of the mechanical calculator threatened to completely automate this specific form of repetitive cognitive labor. For the very first time in human history, society witnessed high-level intellectual work, previously thought to be the exclusive domain of human intelligence, being successfully outsourced to a cold, unthinking assembly of metal parts. This blurred the line between human cognitive talent and mechanical automation, forcing a radical reconsideration of what tasks truly required a human mind.
 
-## Contemporary Reactions
-
-The widespread introduction of these calculating machines into the white-collar workforce caused significant societal anxiety and professional friction. While forward-thinking business owners quickly recognized the immense potential for operational efficiency and reduced overhead, professional clerks and bookkeepers viewed the technology as a direct, existential threat to their livelihoods and social standing. Public critics and traditional educators also voiced harsh opposition, arguing that relying on a mechanical device would rapidly degrade human intellectual capacity, make the brain lazy, and cause society to permanently lose the fundamental, disciplined skill of mental arithmetic. Furthermore, early widespread adoption was severely hindered by a deep-seated lack of trust in mechanical accuracy. Skeptical managers and executives routinely forced human clerks to manually verify the mechanical results line by line, unwilling to believe a machine could be more accurate than a human.
-
-## What Actually Happened
-
-Contrary to the direst predictions of the era, mechanical calculators did not eliminate office jobs or create widespread unemployment in the administrative sector. Instead, they completely transformed the fundamental nature of administrative work, shifting the primary role of the human computer from performing tedious calculations to strategically operating and managing the new machinery. Rather than destroying the labor market, this technological shift created entirely new, specialized employment sectors, particularly for women, who entered the corporate office environment in unprecedented numbers to work as professional, certified Comptometer operators. Because calculation became significantly faster, cheaper, and less prone to human fatigue, the overall demand for data processing, financial auditing, and statistical analysis in the corporate world expanded exponentially, ultimately creating more office jobs than the machines replaced.
-
 {% include images/jumbotron.html
   image-path="images/early-math-calculator-with-handle-bettmann.jpg"
   height="85vh"
@@ -54,6 +46,14 @@ Contrary to the direst predictions of the era, mechanical calculators did not el
   box-align="left"
   text="In a blind comparison of 42 science articles, *Nature* found Wikipedia's error rate roughly comparable to Britannica's: 4 errors per article vs. 3. The finding sent shockwaves through both the encyclopedic establishment and the open-source community."
 %}
+
+## Contemporary Reactions
+
+The widespread introduction of these calculating machines into the white-collar workforce caused significant societal anxiety and professional friction. While forward-thinking business owners quickly recognized the immense potential for operational efficiency and reduced overhead, professional clerks and bookkeepers viewed the technology as a direct, existential threat to their livelihoods and social standing. Public critics and traditional educators also voiced harsh opposition, arguing that relying on a mechanical device would rapidly degrade human intellectual capacity, make the brain lazy, and cause society to permanently lose the fundamental, disciplined skill of mental arithmetic. Furthermore, early widespread adoption was severely hindered by a deep-seated lack of trust in mechanical accuracy. Skeptical managers and executives routinely forced human clerks to manually verify the mechanical results line by line, unwilling to believe a machine could be more accurate than a human.
+
+## What Actually Happened
+
+Contrary to the direst predictions of the era, mechanical calculators did not eliminate office jobs or create widespread unemployment in the administrative sector. Instead, they completely transformed the fundamental nature of administrative work, shifting the primary role of the human computer from performing tedious calculations to strategically operating and managing the new machinery. Rather than destroying the labor market, this technological shift created entirely new, specialized employment sectors, particularly for women, who entered the corporate office environment in unprecedented numbers to work as professional, certified Comptometer operators. Because calculation became significantly faster, cheaper, and less prone to human fatigue, the overall demand for data processing, financial auditing, and statistical analysis in the corporate world expanded exponentially, ultimately creating more office jobs than the machines replaced.
 
 ## Connection to AI
 
