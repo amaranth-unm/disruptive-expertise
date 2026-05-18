@@ -11,9 +11,9 @@ header-position: center
 
 # The Death of Infallibility
 
-On December 7, 1963, a broadcast went live that contained almost nothing familiar—a massive 1,200-pound videotape machine, a frantic director named Tony Verna, and a deceptively simple premise: you could see the past while the present was still happening.
+On December 7, 1963, a broadcast went live that contained almost nothing familiar, a massive 1,200-pound videotape machine, a frantic director named Tony Verna, and a deceptively simple premise: you could see the past while the present was still happening.
 
-Within minutes of its debut during the Army-Navy game, instant replay had done what was previously thought impossible: it broke the linear flow of time. By almost any measure, it was an astonishing success—and one of the most unsettling intellectual disruptions of the twentieth century. Not because it failed, but because it worked.
+Within minutes of its debut during the Army-Navy game, instant replay had done what was previously thought impossible, it broke the linear flow of time. By almost any measure, it was an astonishing success, and one of the most unsettling intellectual disruptions of the twentieth century. Not because it failed, but because it worked.
 
 The story of instant replay is not really a story about technology or sports. It is a story about who gets to be an expert, who decides what counts as reliable knowledge, and what happens when those gatekeeping functions are suddenly taken out of human hands and given to a machine.
 
@@ -87,7 +87,7 @@ In December 1986, the NFL finally launched its own version of a 'Nature study', 
   text="The 1986 season sent shockwaves through the sports establishment. In a blind comparison of human calls vs. camera angles, the finding landed a lasting blow to the assumption that formal on-field structures were the only way to find information."
 %}
 
-The results were striking: the machines caught errors that the humans missed. Tom Nichols, writing in *The Death of Expertise*, worried that findings like these gave 'ordinary citizens' permission to distrust expertise altogether, that the lesson taken from replay was not 'camera review can help,' but 'the referee isn't necessary.' His concern reflected something real: the disruption instant replay represented was not merely institutional. It was epistemological.
+The results were striking: the machines caught errors that the humans missed. However, the system was plagued by a massive technical bottleneck, featuring replay officials in cramped stadium booths working off two VCRs and 9-inch monitors. Technological mishaps abounded, including an infamous game where a communication breakdown caused a field referee to execute a critical call based on static heavy walkie-talkie audio rather than the video record. Tom Nichols, writing in The Death of Expertise, worried that findings like these gave 'ordinary citizens' permission to distrust expertise altogether, that the lesson taken from replay was not 'camera review can help,' but 'the referee isn't necessary.' His concern reflected something real: the disruption instant replay represented was not merely institutional. It was epistemological.
 
 
 ## What Actually Happened
@@ -110,7 +110,7 @@ The market for the 'Infallible Expert' had simply collapsed. Officiating pivoted
 
 The debates about instant replay in the 1960s sound strikingly familiar to debates about AI today.
 
-Is the output reliable? Who is responsible when it's wrong? Does it flatten nuance in ways that look like knowledge but aren't? Can we trust something that cannot tell us, in any meaningful sense, *why* it saw what it saw?
+Is the output reliable? Who is responsible when it's wrong? Does it flatten nuance in ways that look like knowledge but aren't? Can we trust something that cannot tell us, in any meaningful sense, why it saw what it saw?
 
 These are the right questions. And the 1963 case suggests they don't have clean answers. Just as the NFL had to create 'Replay Officials' to bridge the gap between human sight and machine evidence, our society is currently struggling to create 'AI Verification' systems. Both technologies force us to accept an uncomfortable truth: our biological senses are no longer enough to navigate a world mediated by machines.
 
