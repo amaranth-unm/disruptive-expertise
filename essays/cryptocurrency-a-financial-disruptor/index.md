@@ -63,7 +63,7 @@ However, not everyone reacted positively. Critics questioned whether digital cur
 By 2017, concerns intensified during the cryptocurrency boom and the rise of Initial Coin Offerings (ICOs). Many investors hoped blockchain startups would revolutionize industries, but widespread fraud and speculation followed. Researchers later described the ICO bubble as an example of how technological hype could fuel large-scale financial scams.
 
 {% include scrollybox/bg.html
-  image-path="images/bullandbear.webp"
+  image-path="images/bull.avif"
   above-box-space="80vh"
   below-box-space="80vh"
   box-align="right"
