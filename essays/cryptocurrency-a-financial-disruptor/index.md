@@ -31,7 +31,7 @@ The timing of Bitcoin’s release was especially important. The 2008 financial c
   image-path="images/books-britannica.jpeg"
   image-position="right"
   image-width="46%"
-  caption="The Encyclopaedia Britannica's multi-volume sets were symbols of authoritative knowledge—and the standard against which Wikipedia would soon be measured."
+  caption="The blockchain is a decentralized digital ledger that securely records transactions across multiple computers so the information cannot be easily altered or tampered with."
   text=britannica_text
 %}
 ## The Moment of Rupture
