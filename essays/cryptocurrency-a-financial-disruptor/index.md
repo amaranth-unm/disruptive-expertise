@@ -19,11 +19,11 @@ The history of cryptocurrency demonstrates how new technologies often produce bo
 ## The Technology
 
 {% capture britannica_text %}
-To understand why Wikipedia was so threatening, you have to understand what it replaced.
+Cryptocurrency is a form of digital currency secured through cryptography and maintained through decentralized computer networks rather than central banks. The most influential cryptocurrency, Bitcoin, emerged in 2008 during the global financial crisis when an anonymous figure or group using the name Satoshi Nakamoto released a white paper titled Bitcoin: A Peer-to-Peer Electronic Cash System. The paper proposed a system that would allow financial transactions to occur directly between individuals without relying on banks or other trusted third parties.
 
-The *Encyclopaedia Britannica* was founded in Edinburgh in 1768 with an explicit promise: its articles would be written by recognized authorities in each field. That model—credentialed experts producing vetted, stable knowledge—defined reference works for two centuries. By the twentieth century, Britannica had become a cultural institution. Owning a set was a marker of middle-class aspiration; its contributors included Nobel laureates and heads of state.
+Bitcoin relied on blockchain technology, a distributed digital ledger that records transactions across many computers. Instead of a bank verifying payments, the network itself verified transactions using cryptographic proof and consensus mechanisms. According to early descriptions of Bitcoin, the system aimed to prevent “double spending” while preserving decentralization and anonymity.
 
-But it was also slow, expensive, and inevitably incomplete. A new edition took years to produce. Corrections were nearly impossible once printed. And the identity of "expert" it relied on—credentialed, Western, predominantly male—excluded enormous domains of knowledge.
+The timing of Bitcoin’s release was especially important. The 2008 financial crisis had severely damaged public trust in banks and financial institutions. Many people viewed cryptocurrency as a direct response to the failures of centralized finance. Bitcoin’s first block, known as the “genesis block,” even included a newspaper headline referencing government bank bailouts, symbolizing distrust toward the existing financial system. Researchers later described Bitcoin as both a technological project and an anti-establishment financial movement.
 
 {% endcapture %}
 
@@ -34,21 +34,33 @@ But it was also slow, expensive, and inevitably incomplete. A new edition took y
   caption="The Encyclopaedia Britannica's multi-volume sets were symbols of authoritative knowledge—and the standard against which Wikipedia would soon be measured."
   text=britannica_text
 %}
+## The Moment of Rupture
+Cryptocurrency represented a moment of rupture because it challenged long-standing assumptions about who controls money and how trust operates in society. Traditionally, financial systems depended on governments, banks, and institutions to regulate transactions and maintain economic stability. Bitcoin proposed something radically different: a system where trust would be embedded in code rather than centralized authorities.
 
-Wikipedia's predecessor, Nupedia, tried to preserve this model for the web. Launched in 2000 by Jimmy Wales and Larry Sanger, Nupedia required peer review by credentialed academics before articles could be published. The result was agonizingly slow: after two years, Nupedia had produced just twenty-four complete articles. The expert model, it turned out, did not scale.
+Many early supporters believed cryptocurrency could revolutionize global finance. Some imagined a future where people could send money internationally without expensive banking fees or government interference. Others saw Bitcoin as protection against inflation and state control. Advocates argued that decentralized finance would empower ordinary individuals and weaken the power of large financial institutions. One academic study described cryptocurrency as promoting visions of “borderless individual economic sovereignty.”
 
-The question Nupedia's failure raised was not "how do we do expert review faster?" It was more radical: what if expert review is the wrong mechanism entirely?
+The excitement surrounding cryptocurrency also reflected broader cultural trends. The internet had already disrupted industries such as media, retail, and communication. Many believed blockchain technology could similarly disrupt banking, contracts, and even governance itself. Scholars described blockchain as the “enfant terrible of the global economy” because it appeared capable of challenging traditional institutions on a global scale.
+
+At the same time, critics feared that cryptocurrency could undermine governments’ ability to regulate economies and combat financial crimes. Because Bitcoin transactions could occur anonymously, concerns quickly emerged regarding money laundering, illegal marketplaces, and tax evasion. Others warned that cryptocurrency markets lacked regulation and could become highly speculative and unstable. These fears intensified as the value of Bitcoin fluctuated dramatically during the 2010s.
 
 
 {% include typography/pullquote.html text="\"Imagine a world in which every single human being can freely share in the sum of all human knowledge. That's what we're doing.\" — Jimmy Wales, Wikipedia co-founder" %}
 
-## Anyone Can Edit
+## Contemporary Reactions
 
-Ward Cunningham had invented the "wiki" in 1995—a website that any visitor could edit directly, with changes appearing instantly. The concept was designed for software developers sharing documentation. When Larry Sanger suggested in January 2001 that Nupedia try a wiki as a "feeder" system for rough drafts, Wales agreed. Within days the wiki had more activity than Nupedia had seen in months.
+Reactions to cryptocurrency in its early years ranged from enthusiasm to confusion and suspicion. Supporters often described Bitcoin in revolutionary terms. On a cryptography mailing list in 2008, Satoshi Nakamoto introduced Bitcoin by writing:
 
-The key insight was almost counterintuitive: the *lack* of a barrier to entry was a feature, not a bug. Removing the need for credentials meant removing the bottleneck. Wikipedia's growth was explosive precisely because it was unguarded. Anyone with knowledge—formal or informal, credentialed or accumulated through decades of lived experience—could contribute.
+“I’ve been working on a new electronic cash system that’s fully peer-to-peer, with no trusted third party.”
 
-This was not, at the time, considered a serious proposal for producing reliable knowledge. The experts said so, loudly.
+This statement became one of the defining primary sources of the cryptocurrency movement because it captured the technology’s central promise: eliminating reliance on financial intermediaries.
+
+Many early adopters were inspired by libertarian and anti-establishment ideals. According to sociological research, Bitcoin users viewed cryptocurrency as a way to resist centralized authority and redefine economic participation. Some supporters believed cryptocurrency would eventually replace traditional banking systems entirely.
+
+Online discussions from the early years also reveal widespread excitement about decentralization. In later reflections on the Bitcoin white paper, users emphasized that Bitcoin’s purpose was to bypass financial institutions entirely and place control directly into the hands of individuals.
+
+However, not everyone reacted positively. Critics questioned whether digital currencies had any real value or practical use. Governments worried about criminal activity and financial instability. Economists warned that cryptocurrencies behaved more like speculative assets than stable currencies. Media coverage often portrayed Bitcoin as mysterious, risky, or associated with illegal marketplaces such as Silk Road. Public confusion was also common because blockchain technology was highly technical and difficult for non-specialists to understand.
+
+By 2017, concerns intensified during the cryptocurrency boom and the rise of Initial Coin Offerings (ICOs). Many investors hoped blockchain startups would revolutionize industries, but widespread fraud and speculation followed. Researchers later described the ICO bubble as an example of how technological hype could fuel large-scale financial scams.
 
 {% include scrollybox/bg.html
   image-path="images/market-view.jpg"
@@ -56,110 +68,21 @@ This was not, at the time, considered a serious proposal for producing reliable 
   below-box-space="80vh"
   box-align="right"
   box-content="
-## The Wiki Model: A Different Theory of Knowledge
+## The Reality of Effects From Crypto
 
-Traditional encyclopedias assumed that reliable knowledge flows *downward*: from credentialed experts to the reading public.
+Some predictions about cryptocurrency proved correct, while others did not. Cryptocurrency undeniably disrupted finance and technology. Bitcoin and other cryptocurrencies created entirely new industries involving digital assets, blockchain infrastructure, decentralized finance, and online trading platforms. Major companies and institutional investors eventually entered cryptocurrency markets, and governments worldwide began developing regulations and exploring central bank digital currencies.
 
-Wikipedia inverted this. It assumed knowledge could flow *upward* and *sideways*—from anyone who knew something to everyone who needed it. Errors would be caught not by editors in advance, but by readers and other contributors over time.
+Blockchain technology also influenced fields beyond finance. Businesses experimented with blockchain systems for supply chains, digital identity verification, and secure record keeping. The broader concept of decentralized digital systems became an important technological trend.
 
-This is sometimes called the 'bazaar' model, as opposed to the 'cathedral' model of traditional scholarly publishing. The cathedral is designed by architects and built according to a plan. The bazaar is chaotic, self-organizing, and—against all expectations—often works.
+However, cryptocurrency did not fully replace traditional financial systems as many early advocates predicted. Bitcoin never became a universal everyday currency for most consumers. Instead, it increasingly functioned as a speculative investment asset similar to digital gold. One study argued that Bitcoin “failed in its original purpose as an alternative currency” because it became more associated with investment and speculation than peer-to-peer transactions.
 
-The philosopher Yochai Benkler called this 'commons-based peer production,' arguing in a landmark 2002 *Yale Law Journal* article that it represented a genuinely new mode of knowledge production—neither market-based nor state-organized, but collaborative and distributed.
+Additionally, many concerns about cryptocurrency proved justified. The market experienced repeated crashes, scams, fraud cases, and regulatory controversies. Environmental criticism also emerged because Bitcoin mining consumed enormous amounts of electricity. Governments imposed restrictions or tighter regulations in response to concerns about financial crime and market instability.
+
+At the same time, some fears were exaggerated. Cryptocurrency did not destroy national banking systems or eliminate government control over money. Traditional finance adapted rather than disappeared. Banks, investment firms, and governments increasingly incorporated blockchain-related technologies into existing systems instead of being fully displaced by them.
+
+Overall, cryptocurrency reshaped society in important ways, but not always in the ways people originally expected. It changed conversations about trust, decentralization, digital ownership, and financial freedom while also exposing the risks of technological hype and speculative markets.
 "
 %}
-
-
-## The Critics Respond
-
-The backlash was immediate and, in some quarters, never stopped.
-
-Robert McHenry, a former editor-in-chief of the *Encyclopaedia Britannica*, published a widely-cited essay in 2004 called "The Faith-Based Encyclopedia." His argument was withering: Wikipedia's quality was not just unpredictable but *unknowable*. Because any article could be edited at any moment by anyone, a reader had no way of knowing whether what they were reading had been there for three years or three minutes. He compared using Wikipedia to leaving one's health in the hands of a randomly chosen passerby. A user "may or may not be informed, but is, in any case, not accountable and not qualifiable."
-
-{% include typography/pullquote.html text="\"The user who visits Wikipedia to learn about some subject, to confirm some piece of information, or to find a source for some assertion is rather in the position of a visitor to a public restroom. It may be obviously dirty, so that he knows to exercise great care, or it may seem fairly clean, yet still be contaminated in ways that are not immediately apparent.\" — Robert McHenry, 2004" %}
-
-Andrew Keen's *The Cult of the Amateur* (2007) raised the stakes further. Keen argued that Wikipedia was not democratizing knowledge but *destroying* it—replacing the careful, slow work of expertise with the instant, unreliable noise of crowd opinion. "The digital revolution's democratic ideology," he wrote, "is undermining cultural standards and belittling real knowledge."
-
-These critiques were not wrong, exactly. They were describing real risks. But they were also defending a model of expertise that had its own exclusions and blind spots—ones that Wikipedia's critics were often slow to acknowledge.
-
-
-## The Famous Test
-
-In December 2005, the science journal *Nature* published a brief but explosive study.
-
-{% include images/jumbotron.html
-  image-path="images/head-to-head.webp"
-  height="85vh"
-  background-position="center top"
-  box-align="left"
-  text="In a blind comparison of 42 science articles, *Nature* found Wikipedia's error rate roughly comparable to Britannica's: 4 errors per article vs. 3. The finding sent shockwaves through both the encyclopedic establishment and the open-source community."
-%}
-
-The *Nature* study, led by journalist Jim Giles, asked subject-matter experts to evaluate matched articles from Wikipedia and Britannica without knowing which was which. The results were striking: Wikipedia had an average of four errors per article; Britannica had three. Both contained "serious errors," according to the reviewers. The gap in reliability was far smaller than the gap in cultural prestige.
-
-Britannica's response was furious. The company published a lengthy rebuttal disputing the methodology. But the study had landed a lasting blow to the assumption that formal editorial structures were necessary for reliable information. Tom Nichols, writing more than a decade later in *The Death of Expertise* (2017), worried that findings like these had given "ordinary citizens" permission to distrust expertise altogether—that the lesson taken from Wikipedia was not "crowd review can sometimes approximate expert review" but "experts aren't necessary."
-
-His concern reflected something real: the disruption Wikipedia represented was not merely institutional. It was epistemological.
-
-
-## What Critics Got Right
-
-Wikipedia's success did not resolve the question of reliability—it complicated it.
-
-Research published throughout the 2000s and 2010s documented systematic problems. The "gender gap" was perhaps most striking: studies consistently found that fewer than fifteen percent of Wikipedia's editors were women, and that articles on topics associated with women and women's interests were systematically shorter, less sourced, and more likely to be flagged for deletion. Minority communities, non-Western knowledge traditions, and contested scientific topics faced similar structural underrepresentation.
-
-Clay Shirky, in *Here Comes Everybody* (2008), celebrated Wikipedia as proof that "organizing without organizations" could solve problems that traditional institutions couldn't. But the scholars who studied Wikipedia's actual editing communities found something more complicated: a self-selected group of predominantly white, Western, technically literate, male editors who imported their own assumptions about what counted as "notable" and "verifiable" just as surely as the Britannica's credentialed experts had.
-
-The crowd, it turned out, was not neutral. It was a crowd.
-
-Steven Shapin's *A Social History of Truth* (1994) helps illuminate why this should not have been surprising. Shapin showed that even in seventeenth-century scientific communities, what counted as reliable knowledge was never purely a matter of evidence—it depended on who was speaking, what social position they occupied, and who trusted them. Wikipedia changed the *form* of those social negotiations without eliminating them. The question of whose knowledge counted was still being answered, just by different mechanisms: edit wars, administrator decisions, notability debates, and the informal hierarchies of a volunteer community.
-
-
-## What Actually Happened
-
-{% capture aftermath_text %}
-By the time critics had fully articulated their concerns, Wikipedia had already transformed the information landscape.
-
-The *Encyclopaedia Britannica* published its final print edition in 2012 after 244 years. The market for expensive, multi-volume reference works had simply collapsed. Britannica pivoted to digital subscription services, but it was adapting to a world Wikipedia had already remade.
-
-Wikipedia itself was not static. Its reliability improved substantially over the years as the community developed more sophisticated quality-control mechanisms. Scholars like Joseph Reagle, in *Good Faith Collaboration* (2010), documented how Wikipedia had developed a complex culture of norms, arbitration processes, and editorial standards—different in form from traditional peer review, but not entirely unlike it in function.
-
-{% endcapture %}
-
-{% include images/figure-wrap.html
-  image-path="images/wikipedia-growth.PNG"
-  image-position="left"
-  image-width="44%"
-  caption="Wikipedia's growth from a few dozen articles to more than sixty million across hundreds of languages represents one of the most remarkable feats of collective knowledge production in history."
-  text=aftermath_text
-%}
-
-The journalist Nicholson Baker, writing in the *New York Review of Books* in 2008, captured something the critics missed: Wikipedia was not finished. It was a living document—not a cathedral built once and maintained, but a garden that grew and changed and healed itself. That was strange and unprecedented. But it was not the same as being worthless.
-
-Andrew Lih's *The Wikipedia Revolution* (2009) documented how the project had navigated its own contradictions—open yet governed, egalitarian yet hierarchical, unfinished yet increasingly relied upon by millions. The disruption Wikipedia represented was real. But so was its resilience.
-
-
-## The Deeper Question
-
-What Wikipedia actually disrupted was not just the encyclopedia business. It disrupted a centuries-old assumption about the relationship between *credentials* and *knowledge*—the idea that reliable information requires not just evidence but a certified expert to vouch for it.
-
-{% include scrollybox/bg.html
-  image-path="images/printing-press.jpg"
-  above-box-space="80vh"
-  below-box-space="80vh"
-  box-align="left"
-  box-content="
-## The Credential Problem 
-
-Adrian Johns demonstrated in *The Nature of the Book* (1998) that the authority of printed texts was not inherent—it had to be constructed. Early print culture was chaotic, filled with forgeries, unauthorized editions, and unreliable reproductions. Trust in the printed word emerged slowly, through booksellers' reputations, readers' networks, and institutional endorsements.
-
-Wikipedia compressed that process dramatically, and made it visible. The negotiations over what counted as reliable knowledge—which had always happened, but usually behind institutional walls—now happened in public, in edit histories, on talk pages, in deletion debates.
-
-This is what made Wikipedia historically significant, and what makes it relevant to debates about AI today: it forced the question of *how we know what we know* into plain view. The answer was never simply 'experts said so.' It was always more complicated. Wikipedia just made the complication impossible to ignore.
-"
-%}
-
-Neil Postman warned in *Amusing Ourselves to Death* (1985) that every new medium changes not just what we communicate but how we think about what is worth communicating. Wikipedia changed the medium of reference knowledge—and in doing so, it changed what questions we ask about knowledge itself.
-
 
 ## Connection to AI
 
