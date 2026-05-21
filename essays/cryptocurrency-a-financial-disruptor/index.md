@@ -81,7 +81,7 @@ Additionally, many concerns about cryptocurrency proved justified. The market ex
 
 At the same time, some fears were exaggerated. Cryptocurrency did not destroy national banking systems or eliminate government control over money. Traditional finance adapted rather than disappeared. Banks, investment firms, and governments increasingly incorporated blockchain-related technologies into existing systems instead of being fully displaced by them.
 
-Overall, cryptocurrency reshaped society in important ways, but not always in the ways people originally expected. It changed conversations about trust, decentralization, digital ownership, and financial freedom while also exposing the risks of technological hype and speculative markets.
+Cryptocurrency reshaped society in important ways, but not always in the ways people originally expected. Coversations caused change about the principles of trust, decentralization, digital ownership, and financial freedom while also exposing the risks of technological hype and speculative markets.
 "
 %}
 
@@ -91,16 +91,16 @@ The history of cryptocurrency provides useful lessons for current debates about 
 
 Cryptocurrency demonstrates that disruptive technologies rarely develop exactly as people predict. Early supporters imagined Bitcoin replacing banks, while critics feared total financial collapse. Instead, society experienced a more complicated outcome involving both innovation and new forms of risk. Similarly, AI will likely produce both benefits and unintended consequences that cannot yet be fully predicted.
 
-The cryptocurrency example also highlights how public reactions to technology are shaped by broader social conditions. Bitcoin gained popularity partly because of distrust in financial institutions after the 2008 crisis. Likewise, current AI debates reflect anxieties about economic inequality, automation, and corporate power. Understanding these historical patterns can help society approach AI with both optimism and caution rather than assuming it will either save or destroy society entirely.
+The cryptocurrency example also highlights how public reactions to technology are shaped by broader social conditions. Bitcoin gained popularity partly because of distrust in financial institutions after the 2008 crisis. Current AI debates reflect anxieties about economic inequality, automation, and corporate power. The act of taking the time to understand these historical patterns can help society approach AI with both optimism and caution rather than assuming it will either save or destroy society entirely.
 
 
 ## How I Used AI for This Essay
 
 AI was useful during the research and writing process because it helped organize information quickly, summarize academic studies, and identify major themes related to cryptocurrency and technological disruption. AI also made it easier to locate connections between historical reactions to cryptocurrency and contemporary debates about artificial intelligence.
 
-However, AI-assisted research also revealed important limitations. One major limitation is that AI often simplifies historical nuance. For example, discussions about cryptocurrency involve many competing political, economic, and cultural perspectives, but AI tends to summarize them into broad categories such as “supporters” and “critics.” This can overlook disagreements within communities and reduce the complexity of historical debates.
+AI-assisted research also revealed important limitations. One major limitation is that AI often simplifies historical nuance. For example, discussions about cryptocurrency involve many competing political, economic, and cultural perspectives, but AI tends to summarize them into broad categories such as “supporters” and “critics.” This can overlook disagreements within communities and reduce the complexity of historical debates.
 
-AI can also overlook important sources. Academic articles, archival materials, and firsthand interviews are sometimes less visible than widely circulated online content. Because AI depends heavily on accessible digital information, it may emphasize popular narratives while missing smaller or less digitized perspectives.
+AI can also overlook important sources. Academic articles, archival materials, and firsthand interviews are sometimes less visible than widely circulated online content. Since AI depends heavily on accessible digital information, it may emphasize popular narratives while missing smaller or less digitized perspectives.
 
 Relying on AI also changes the research process itself. Traditional historical research often involves slowly reading and comparing many sources, while AI encourages faster synthesis and summarization. This can save time, but it may also reduce careful engagement with primary documents and scholarly arguments. As a result, AI works best as a supporting research tool rather than a replacement for critical thinking and deeper historical analysis.
 
