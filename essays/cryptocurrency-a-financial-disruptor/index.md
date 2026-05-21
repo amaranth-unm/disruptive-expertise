@@ -4,21 +4,19 @@ layout: scrollstory
 header-image: images/jimmy-wales-imac.jpg
 thumbnail: images/jimmy-wales-imac.jpg
 summary: Cryptocurrency emerged as a disruptive technology that challenged traditional financial systems by promoting decentralized digital currency through blockchain technology, leading to both excitement about financial freedom and concerns about crime, instability, and speculation. Although cryptocurrency did not fully replace banks or government-controlled money as some supporters predicted, it significantly reshaped global conversations about trust, finance, and technological innovation while revealing both the possibilities and the risks of disruptive technologies.
-header-title: Cryptocurrency-A Financial Catalyst
+header-title: Cryptocurrency- A Financial Catalyst
 header-subtitle: Financial Reform, Cybercrime, & Technological Innovation
 header-position: center
 ---
 
-# Wikipedia and the Wisdom of the Crowd
+# Cryptocurrency: A Financial Catalyst
 
-On January 15, 2001, a website went live that contained almost nothing—a handful of stub articles, a blank editing interface, and a deceptively simple premise: anyone could write it. No credentials required. No editorial gatekeeping. No payment. Just a web browser and an opinion.
+The rise of cryptocurrency represents one of the most significant technological disruptions of the twenty-first century. When Bitcoin first emerged in 2008, it was not simply introduced as a new form of digital money. Instead, it challenged the authority of banks, governments, and traditional financial systems by proposing a decentralized alternative built on cryptography and peer-to-peer networks. Supporters believed cryptocurrency could democratize finance, reduce dependence on centralized institutions, and give individuals greater control over their wealth. Critics, however, feared that it would enable crime, destabilize economies, encourage speculation, and weaken governmental oversight of money. 
 
-Within three years, Wikipedia had more articles than the *Encyclopaedia Britannica*. Within a decade, it had become the largest reference work in human history. By almost any measure, it was an astonishing success—and one of the most unsettling intellectual disruptions of the twenty-first century. Not because it failed, but because it worked.
-
-The story of Wikipedia is not really a story about technology. It is a story about who gets to be an expert, who decides what counts as reliable knowledge, and what happens when those gatekeeping functions are suddenly thrown open to everyone.
+The history of cryptocurrency demonstrates how new technologies often produce both utopian optimism and deep social anxiety. By examining the origins of cryptocurrency, the reactions it generated, and its actual impact on society, it becomes clear that cryptocurrency was both a technological innovation and a cultural rupture that reshaped conversations about trust, money, and digital power.
 
 
-## The World Wikipedia Disrupted
+## The Technology
 
 {% capture britannica_text %}
 To understand why Wikipedia was so threatening, you have to understand what it replaced.
