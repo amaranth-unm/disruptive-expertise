@@ -4,8 +4,8 @@ layout: scrollstory
 header-image: images/jimmy-wales-imac.jpg
 thumbnail: images/jimmy-wales-imac.jpg
 summary: Cryptocurrency emerged as a disruptive technology that challenged traditional financial systems by promoting decentralized digital currency through blockchain technology, leading to both excitement about financial freedom and concerns about crime, instability, and speculation. Although cryptocurrency did not fully replace banks or government-controlled money as some supporters predicted, it significantly reshaped global conversations about trust, finance, and technological innovation while revealing both the possibilities and the risks of disruptive technologies.
-header-title: Wikipedia and the Wisdom of the Crowd
-header-subtitle: How a Free Encyclopedia Disrupted Expertise
+header-title: Cryptocurrency-A Financial Catalyst
+header-subtitle: Financial Reform, Cybercrime, & Technological Innovation
 header-position: center
 ---
 
