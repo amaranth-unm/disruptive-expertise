@@ -107,30 +107,24 @@ Relying on AI also changes the research process itself. Traditional historical r
 
 ## Bibliography
 
-Baker, Nicholson. "The Charms of Wikipedia." *New York Review of Books*, March 20, 2008.
+DuPont, Q. (2018). Experiments in algorithmic governance: A history and ethnography of “The DAO,” a failed decentralized autonomous organization. In Bitcoin and beyond: Cryptocurrencies, blockchains, and global governance. Routledge.
 
-Benkler, Yochai. "Coase's Penguin, or, Linux and 'The Nature of the Firm.'" *Yale Law Journal* 112, no. 3 (2002): 369–446.
+Golumbia, D. (2016). The politics of Bitcoin: Software as right-wing extremism. University of Minnesota Press.
 
-Giles, Jim. "Internet Encyclopaedias Go Head to Head." *Nature* 438, no. 7070 (December 2005): 900–901.
+History.com Editors. (2023). Satoshi Nakamoto publishes a paper introducing Bitcoin. History. History.com Article on Bitcoin Origins
 
-Johns, Adrian. *The Nature of the Book: Print and Knowledge in the Making*. Chicago: University of Chicago Press, 1998.
+Li, J., Ren, L., & Guo, D. (2020). Close latency-security trade-off for the Nakamoto consensus. arXiv. (arxiv.org)
 
-Keen, Andrew. *The Cult of the Amateur: How Today's Internet is Killing Our Culture*. New York: Doubleday, 2007.
+Maurer, B., Nelms, T. C., & Swartz, L. (2013). “When perhaps the real problem is money itself!”: The practical materiality of Bitcoin. Social Semiotics, 23(2), 261–277.
 
-Lih, Andrew. *The Wikipedia Revolution: How a Bunch of Nobodies Created the World's Greatest Encyclopedia*. New York: Hyperion, 2009.
+Nakamoto, S. (2008). Bitcoin: A peer-to-peer electronic cash system. Bitcoin.org. Bitcoin.org Bitcoin Paper
 
-McHenry, Robert. "The Faith-Based Encyclopedia." *TCS Daily*, November 15, 2004.
+Narayanan, A., Bonneau, J., Felten, E., Miller, A., & Goldfeder, S. (2016). Bitcoin and cryptocurrency technologies: A comprehensive introduction. Princeton University Press.
 
-Nichols, Tom. *The Death of Expertise: The Campaign Against Established Knowledge and Why It Matters*. New York: Oxford University Press, 2017.
+Perez-Marco, R. (2016). Bitcoin and decentralized trust protocols. arXiv. (arxiv.org)
 
-Postman, Neil. *Amusing Ourselves to Death: Public Discourse in the Age of Show Business*. New York: Penguin, 1985.
+Reid, F., & Harrigan, M. (2011). An analysis of anonymity in the Bitcoin system. arXiv. (arxiv.org)
 
-Reagle, Joseph M. *Good Faith Collaboration: The Culture of Wikipedia*. Cambridge: MIT Press, 2010.
+Vigna, P., & Casey, M. J. (2015). The age of cryptocurrency: How Bitcoin and digital money are challenging the global economic order. St. Martin’s Press.
 
-Sanger, Larry. "The Early History of Nupedia and Wikipedia: A Memoir." *Slashdot*, April 2005.
-
-Shapin, Steven. *A Social History of Truth: Civility and Science in Seventeenth-Century England*. Chicago: University of Chicago Press, 1994.
-
-Shirky, Clay. *Here Comes Everybody: The Power of Organizing Without Organizations*. New York: Penguin Press, 2008.
-
-Wales, Jimmy. "Wikipedia Is an Encyclopedia." Wikipedia-l mailing list, March 8, 2005.
+Yermack, D. (2015). Is Bitcoin a real currency? An economic appraisal. In D. L. K. Chuen (Ed.), Handbook of digital currency (pp. 31–43). Elsevier.
