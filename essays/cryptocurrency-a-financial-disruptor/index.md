@@ -15,7 +15,7 @@ The rise of cryptocurrency represents one of the most significant technological 
 
 The history of cryptocurrency demonstrates how new technologies often produce both utopian optimism and deep social anxiety. By examining the origins of cryptocurrency, the reactions it generated, and its actual impact on society, it becomes clear that cryptocurrency was both a technological innovation and a cultural rupture that reshaped conversations about trust, money, and digital power.
 
-
+---
 ## The Technology
 
 {% capture britannica_text %}
@@ -41,7 +41,7 @@ The timing of Bitcoin’s release was especially important. The 2008 financial c
   background-position: center;
   background-attachment: fixed; /* Keeps the background static while scrolling */
 }
-
+---
 ## The Moment of Rupture
 Cryptocurrency represented a moment of rupture because it challenged long-standing assumptions about who controls money and how trust operates in society. Traditionally, financial systems depended on governments, banks, and institutions to regulate transactions and maintain economic stability. Bitcoin proposed something radically different: a system where trust would be embedded in code rather than centralized authorities.
 
@@ -69,7 +69,8 @@ Online discussions from the early years also reveal widespread excitement about 
 However, not everyone reacted positively. Critics questioned whether digital currencies had any real value or practical use. Governments worried about criminal activity and financial instability. Economists warned that cryptocurrencies behaved more like speculative assets than stable currencies. Media coverage often portrayed Bitcoin as mysterious, risky, or associated with illegal marketplaces such as Silk Road. Public confusion was also common because blockchain technology was highly technical and difficult for non-specialists to understand.
 
 By 2017, concerns intensified during the cryptocurrency boom and the rise of Initial Coin Offerings (ICOs). Many investors hoped blockchain startups would revolutionize industries, but widespread fraud and speculation followed. Researchers later described the ICO bubble as an example of how technological hype could fuel large-scale financial scams.
-
+---
+%}
 {% include scrollybox/bg.html
   image-path="images/bull.avif"
   above-box-space="80vh"
