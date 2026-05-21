@@ -86,26 +86,22 @@ Overall, cryptocurrency reshaped society in important ways, but not always in th
 
 ## Connection to AI
 
-The debates about Wikipedia in the 2000s and 2010s sound strikingly familiar to debates about AI today.
+The history of cryptocurrency provides useful lessons for current debates about artificial intelligence. Like cryptocurrency, AI is often discussed in both utopian and dystopian terms. Supporters claim AI could revolutionize productivity, medicine, education, and creativity, while critics warn about job displacement, misinformation, surveillance, and loss of human control.
 
-Is the output reliable? Who is responsible when it's wrong? Does it flatten nuance in ways that look like knowledge but aren't? Does it encode the biases of its creators without acknowledging them? Can we trust something that cannot tell us, in any meaningful sense, *why* it said what it said?
+Cryptocurrency demonstrates that disruptive technologies rarely develop exactly as people predict. Early supporters imagined Bitcoin replacing banks, while critics feared total financial collapse. Instead, society experienced a more complicated outcome involving both innovation and new forms of risk. Similarly, AI will likely produce both benefits and unintended consequences that cannot yet be fully predicted.
 
-These are the right questions. And the Wikipedia case suggests they don't have clean answers.
-
-What Wikipedia showed is that disruptions to expert authority are not simply liberating or simply dangerous—they are both, and the balance shifts depending on what you're looking for, who you are, and what you already know. A Wikipedia article on a well-documented scientific topic is often genuinely reliable. An article on a contested political event, or a figure from a marginalized community, or a topic outside the dominant culture of its editors, is often not.
-
-AI presents the same asymmetry at greater scale and higher speed. Understanding what Wikipedia got right, what it got wrong, and *why*—not as a story of technology, but as a story of social power, epistemic trust, and the politics of knowledge—is essential preparation for navigating what comes next.
+The cryptocurrency example also highlights how public reactions to technology are shaped by broader social conditions. Bitcoin gained popularity partly because of distrust in financial institutions after the 2008 crisis. Likewise, current AI debates reflect anxieties about economic inequality, automation, and corporate power. Understanding these historical patterns can help society approach AI with both optimism and caution rather than assuming it will either save or destroy society entirely.
 
 
 ## How I Used AI for This Essay
 
-This essay was researched and written with the assistance of Claude, an AI assistant made by Anthropic.
+AI was useful during the research and writing process because it helped organize information quickly, summarize academic studies, and identify major themes related to cryptocurrency and technological disruption. AI also made it easier to locate connections between historical reactions to cryptocurrency and contemporary debates about artificial intelligence.
 
-AI was useful for: generating an initial outline, suggesting relevant historical figures and events, and helping draft transitions between sections. I used it as a starting point—a well-read research assistant who could quickly surface names and dates and connections.
+However, AI-assisted research also revealed important limitations. One major limitation is that AI often simplifies historical nuance. For example, discussions about cryptocurrency involve many competing political, economic, and cultural perspectives, but AI tends to summarize them into broad categories such as “supporters” and “critics.” This can overlook disagreements within communities and reduce the complexity of historical debates.
 
-AI was *not* a reliable source for specific claims, quotations, or bibliographic details. Every source cited here was verified through actual databases (JSTOR, Google Scholar, library catalogs) or the original texts. Several sources that an AI initially suggested turned out to have incorrect publication dates, wrong page numbers, or—in two cases—to not exist in the form described. AI is not a substitute for source verification; it is a starting point for research, not an endpoint.
+AI can also overlook important sources. Academic articles, archival materials, and firsthand interviews are sometimes less visible than widely circulated online content. Because AI depends heavily on accessible digital information, it may emphasize popular narratives while missing smaller or less digitized perspectives.
 
-The deeper limitation: AI flattened the historiographic debates. When I asked it to explain "the significance of Wikipedia," it gave a confident, balanced-sounding answer that missed exactly the tensions and contradictions that make the history interesting. Historians argue. They disagree. They revise. AI tends to synthesize and harmonize. The most important intellectual work in this essay—deciding what the evidence actually *means*—was mine to do.
+Relying on AI also changes the research process itself. Traditional historical research often involves slowly reading and comparing many sources, while AI encourages faster synthesis and summarization. This can save time, but it may also reduce careful engagement with primary documents and scholarly arguments. As a result, AI works best as a supporting research tool rather than a replacement for critical thinking and deeper historical analysis.
 
 ---
 
