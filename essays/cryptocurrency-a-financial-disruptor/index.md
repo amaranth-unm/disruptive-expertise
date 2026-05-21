@@ -34,6 +34,7 @@ The timing of Bitcoin’s release was especially important. The 2008 financial c
   caption="The blockchain is a decentralized digital ledger that securely records transactions across multiple computers so the information cannot be easily altered or tampered with."
   text=britannica_text
 %}
+{%include images/blue.avif
 ## The Moment of Rupture
 Cryptocurrency represented a moment of rupture because it challenged long-standing assumptions about who controls money and how trust operates in society. Traditionally, financial systems depended on governments, banks, and institutions to regulate transactions and maintain economic stability. Bitcoin proposed something radically different: a system where trust would be embedded in code rather than centralized authorities.
 
@@ -45,7 +46,7 @@ At the same time, critics feared that cryptocurrency could undermine governments
 
 
 {% include typography/pullquote.html text="\"The root problem with conventional currency is all the trust that's required to make it work.”\" — Satoshi Nakamoto, Creator of Bitcoin" %}
-
+%}
 ## Contemporary Reactions
 
 Reactions to cryptocurrency in its early years ranged from enthusiasm to confusion and suspicion. Supporters often described Bitcoin in revolutionary terms. On a cryptography mailing list in 2008, Satoshi Nakamoto introduced Bitcoin by writing:
