@@ -1,8 +1,8 @@
 ---
 title: "Cryptocurrency: A Financial Catalyst"
 layout: scrollstory
-header-image: images/jimmy-wales-imac.jpg
-thumbnail: images/jimmy-wales-imac.jpg
+header-image: images/cryptocurrency.webp
+thumbnail: images/bitcoin.jpg
 summary: Cryptocurrency emerged and challenged traditional financial systems by promoting decentralized digital currency through blockchain technology, leading to both excitement about financial freedom and concerns about crime, instability, and speculation. Although cryptocurrency did not fully replace banks or government-controlled money as some supporters predicted, it significantly reshaped global conversations about trust, finance, and technological innovation while revealing both the possibilities and the risks of disruptive technologies.
 header-title: Cryptocurrency- A Financial Catalyst
 header-subtitle: Financial Reform, Cybercrime, & Technological Innovation
@@ -28,7 +28,7 @@ The timing of Bitcoin’s release was especially important. The 2008 financial c
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/books-britannica.jpeg"
+  image-path="images/blockchain.png"
   image-position="right"
   image-width="46%"
   caption="The blockchain is a decentralized digital ledger that securely records transactions across multiple computers so the information cannot be easily altered or tampered with."
