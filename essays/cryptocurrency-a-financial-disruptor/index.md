@@ -44,7 +44,7 @@ The excitement surrounding cryptocurrency also reflected broader cultural trends
 At the same time, critics feared that cryptocurrency could undermine governments’ ability to regulate economies and combat financial crimes. Because Bitcoin transactions could occur anonymously, concerns quickly emerged regarding money laundering, illegal marketplaces, and tax evasion. Others warned that cryptocurrency markets lacked regulation and could become highly speculative and unstable. These fears intensified as the value of Bitcoin fluctuated dramatically during the 2010s.
 
 
-{% include typography/pullquote.html text="\"Imagine a world in which every single human being can freely share in the sum of all human knowledge. That's what we're doing.\" — Jimmy Wales, Wikipedia co-founder" %}
+{% include typography/pullquote.html text="\"The root problem with conventional currency is all the trust that's required to make it work.”\" — Satoshi Nakamoto, Creator of Bitcoin" %}
 
 ## Contemporary Reactions
 
